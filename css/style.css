@@ -1,0 +1,331 @@
+
+    	html { height: 100% }
+
+    	body { height: 100%; margin: 0px; padding 0px; overflow: hidden; background-color: black; }
+
+    	#map_canvas {
+
+    		height: 100%;
+    		width: 100%;
+
+    	}
+
+		table { border-collapse:collapse;}
+
+		td { padding: 0; border: 0; margin: 0;}
+
+		tr { margin: 0px;}
+
+
+
+		#fps {
+
+			color:#aaa;
+
+			font-size: small;
+
+			float: right;
+
+			height: 1em;
+
+			padding: 0;
+
+			line-height:100%;
+
+		}
+
+		#play_button {
+
+			width: 32px;
+
+			height: 32px;
+
+			background-image: url(../images/play.jpg);
+
+		}
+
+		#play_button.pause {
+
+			width: 32px;
+
+			height: 32px;
+
+			background-image: url(../images/pause.jpg);
+
+		}
+
+		#fullscreen_button {
+
+			width: 32px;
+
+			height: 32px;
+
+			background-image: url(../images/fullscreen.jpg);
+
+		}
+
+		#fullscreen_button.fullscreen {
+
+			width: 32px;
+
+			height: 32px;
+
+			background-image: url(../images/fullscreen_off.jpg);
+
+		}
+
+		#fullscreen_canvas {
+
+			width: 100%;
+
+			position: absolute;
+
+			top: 32px;
+
+			bottom: 0px;
+
+			color: #fff;
+
+			background-color: #000;
+
+			z-index: 100;
+
+			display: none;
+
+			text-align: center;
+
+		}
+
+		#fs_media_target {
+
+			width: 853px; /* size of YouTube 'large' player */
+
+			height: 480px; /* size of YouTube 'large' player */
+
+			margin-left: auto;
+
+			margin-right: auto;
+
+			overflow: hidden;
+
+		}
+
+		#fs_compass_bar {
+
+			border: 1px solid #600;
+
+			background-color: #300;
+
+			color: #ccc;
+
+			position: relative;
+
+			width: 853px; /* same as fs_media_target */
+
+			height: 72px;
+
+			margin-left: auto;
+
+			margin-right: auto;
+
+			margin-top: 5px;
+
+			overflow: hidden;
+
+			top: 0px;
+
+		}
+
+		#fs_info_panel {
+
+			color: #ccc;
+
+			position: absolute;
+
+			top: 0px;
+
+			left: 0px;
+
+			height: 100%;
+
+			width: 180px;
+
+			opacity: 0.5;
+
+			text-align: left;
+
+			overflow-y: hidden;
+
+		}
+
+		#moment_media {
+
+			width: 0px;
+
+			//height: 0;
+
+			position: absolute;
+
+			top: 32px;
+
+			height: 0px;//bottom: 0px;
+
+			z-index: 105;
+
+		}
+
+		#buffering_canvas {
+
+			width: 60%;
+
+			position: absolute;
+
+			top: 32px;
+
+			bottom: 0px;
+
+			color: #aaa;
+
+			font-family: Verdana;
+
+			font-size: 3em;
+
+			text-align: center;
+
+			line-height: 100%;
+
+			background-color: #000;
+
+			opacity: 0.3;
+
+			z-index: 110;
+
+			display: none;
+
+		}
+
+		#seek_nub { 
+
+			position: absolute;
+
+			left: 100%;
+
+			top: 0px;
+
+			padding: 0px;
+
+			width: 7px;
+
+			height: 32px;
+
+		}
+
+		#seek_preview {
+
+			position: absolute;
+
+			left: 100%;
+
+			top: 0px;
+
+			padding: 0px;
+
+			width: 7px;
+
+			height: 32px;
+
+			opacity: 0.3;
+
+			display: none;
+
+		}
+
+		.twitter_moment {
+
+			font-family: sans-serif;
+
+			font-size: small;
+
+		}
+
+		.twitter_moment table {
+
+			vertical-align:top;
+
+			horizontal-align:left;			
+
+			padding:0px;
+
+			spacing:0px;
+
+			margin:0px;
+
+			line-height:0%;
+
+		}
+
+		.twitter_moment tr {
+
+			vertical-align:top;
+
+			horizontal-align:left;			
+
+			padding:0px;
+
+			spacing:0px;
+
+			margin:0px;
+
+			line-height:0%;
+
+		}
+
+		.twitter_moment td {
+
+			vertical-align:top;
+
+			horizontal-align:left;			
+
+			padding:0px;
+
+			spacing:0px;
+
+			margin:0px;
+
+			line-height:0%;
+
+		}
+
+		.twitter_moment img {
+
+			vertical-align:top;
+
+			horizontal-align:left;			
+
+			padding:0px;
+
+			spacing:0px;
+
+			margin:0px;
+
+			line-height:0%;
+
+		}		
+
+		.twitter_moment_text {
+
+			line-height:100%	
+
+		}
+		.flightpath {
+			width: 40%;
+			height: 60%;
+			background-image: url('../images/hud.jpg');
+			background-size: 100%;
+			background-repeat:no-repeat;
+			background-position:center;
+			float: right;
+			position: absolute;
+			top: 0px;
+			right: 0px;
+		}

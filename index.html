@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link type="text/css" rel="stylesheet" href="css/map.css">
+    <title>Drone powered web app: proof of concept</title>
+
+    <!-- This script loads your compiled module.   -->
+    <!-- If you add any GWT meta tags, they must   -->
+    <!-- be added before this line.                -->
+
+	<script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>	
+    <script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+    <script type="text/javascript" language="javascript" src="http://maps.google.com/maps/api/js?sensor=false&libraries=geometry"></script>
+    <script type="text/javascript" language="javascript" src="data/date.js"></script>
+    <script type="text/javascript" language="javascript" src="js/perspext.js"></script>
+    <script type="text/javascript" language="javascript" src="data/data.js"></script>
+    <script type="text/javascript" language="javascript" src="js/jQueryRotate.1.7.js"></script>
+<script type="text/javascript">
+// Execute when the DOM is ready (and Javascript has been loaded)
+function initialize()
+{
+	timemap = new TimeMap('map_canvas');
+	timemap.init();
+}
+</script>    
+  </head>
+  <!-- The body can have arbitrary html, or      -->
+  <!-- you can leave the body empty if you want  -->
+  <!-- to create a completely dynamic UI.        -->
+  <body onload="initialize()">
+    <!-- OPTIONAL: include this if you want history support -->
+<!--    <iframe src="javascript:''" id="__gwt_historyFrame" tabIndex='-1' style="position:absolute;width:0;height:0;border:0"></iframe> -->
+	<div id="junk" style="display: block"></div>
+	<table style="height:60%; width: 60%">
+	<tr height="32" style="background-image: url('images/barbg.png'); z-index: 20000">
+		<td>
+			<div id="play_button" class="pause"></div>
+		</td>
+		<td>
+		<span id="time_pos">0:00</span>
+		</td>
+		<td width="100%" style="padding-right: 7px" >
+		<div id="seek_trough" style="width: 100%; height: 32px; position: relative;">
+				<img id="seek_preview" src="images/timepos.png"/>
+				<img id="seek_nub" src="images/timepos.png"/>
+			</div>
+		</td>
+		<td>
+			<div id="fps"></div>
+			<span id="time_len">0:00</span>
+		</td>
+		<td>
+			<div id="fullscreen_button"></div>
+		</td>
+	</tr>
+	<tr style="height:100%; overflow: hidden">
+		<td colspan="5">
+			<div id="buffering_canvas">Buffering...</div>
+			<div id="moment_media"></div>
+			<div id="fullscreen_canvas">
+				<div id="fs_info_panel"></div>
+				<table style="width: 100%; height: 100%">
+				<tr style="height: 100%">
+					<td width="100%" height="100%">
+						<div id="fs_media_target"></div>
+						<div id="fs_compass_bar"></div>
+					</td>
+				</tr>
+				</table>
+			</div>
+			<div id="map_canvas"></div>
+		</td>
+	</tr>
+	</table>
+	<div class="flightpath">
+	</div>
+	</body>
+</html>
