@@ -1,0 +1,6306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx creator="NC" version="1.0" >
+
+<metadata>
+<link href="http://www.mikrokopter.de">
+<text>MikroKopter</text>
+</link>
+</metadata>
+
+<trk>
+<name>Flight</name>
+<trkseg>
+<trkpt lat="+28.9543980" lon="-112.2773415">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:25Z</time>
+<sat>7</sat>
+<extensions>
+<Altimeter>204</Altimeter>
+<Variometer>1</Variometer>
+<Course>271</Course>
+<GroundSpeed>100</GroundSpeed>
+<VerticalSpeed>-75</VerticalSpeed>
+<FlightTime>7</FlightTime>
+<Voltage>16.5</Voltage>
+<Current>22.0</Current>
+<Capacity>95</Capacity>
+<RCQuality>194</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>065</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543963" lon="-112.2773460">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:27Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>202</Altimeter>
+<Variometer>0</Variometer>
+<Course>271</Course>
+<GroundSpeed>72</GroundSpeed>
+<VerticalSpeed>-147</VerticalSpeed>
+<FlightTime>8</FlightTime>
+<Voltage>16.2</Voltage>
+<Current>35.0</Current>
+<Capacity>122</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>056</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>0, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543938" lon="-112.2773456">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:28Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>203</Altimeter>
+<Variometer>2</Variometer>
+<Course>271</Course>
+<GroundSpeed>58</GroundSpeed>
+<VerticalSpeed>-121</VerticalSpeed>
+<FlightTime>9</FlightTime>
+<Voltage>16.2</Voltage>
+<Current>36.5</Current>
+<Capacity>133</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>058</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543930" lon="-112.2773454">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:29Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>203</Altimeter>
+<Variometer>1</Variometer>
+<Course>271</Course>
+<GroundSpeed>28</GroundSpeed>
+<VerticalSpeed>-91</VerticalSpeed>
+<FlightTime>10</FlightTime>
+<Voltage>16.2</Voltage>
+<Current>36.1</Current>
+<Capacity>140</Capacity>
+<RCQuality>194</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>062</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543908" lon="-112.2773432">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:31Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>200</Altimeter>
+<Variometer>-1</Variometer>
+<Course>271</Course>
+<GroundSpeed>27</GroundSpeed>
+<VerticalSpeed>-61</VerticalSpeed>
+<FlightTime>11</FlightTime>
+<Voltage>16.1</Voltage>
+<Current>37.3</Current>
+<Capacity>151</Capacity>
+<RCQuality>203</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>060</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543879" lon="-112.2773420">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:32Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>202</Altimeter>
+<Variometer>0</Variometer>
+<Course>271</Course>
+<GroundSpeed>37</GroundSpeed>
+<VerticalSpeed>-39</VerticalSpeed>
+<FlightTime>12</FlightTime>
+<Voltage>16.1</Voltage>
+<Current>36.8</Current>
+<Capacity>162</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>063</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543876" lon="-112.2773427">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:33Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>203</Altimeter>
+<Variometer>1</Variometer>
+<Course>271</Course>
+<GroundSpeed>32</GroundSpeed>
+<VerticalSpeed>-41</VerticalSpeed>
+<FlightTime>13</FlightTime>
+<Voltage>16.1</Voltage>
+<Current>37.1</Current>
+<Capacity>173</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>060</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543874" lon="-112.2773413">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:34Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>204</Altimeter>
+<Variometer>0</Variometer>
+<Course>271</Course>
+<GroundSpeed>15</GroundSpeed>
+<VerticalSpeed>-64</VerticalSpeed>
+<FlightTime>14</FlightTime>
+<Voltage>16.1</Voltage>
+<Current>37.0</Current>
+<Capacity>184</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>065</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543881" lon="-112.2773412">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:35Z</time>
+<sat>7</sat>
+<extensions>
+<Altimeter>208</Altimeter>
+<Variometer>3</Variometer>
+<Course>271</Course>
+<GroundSpeed>39</GroundSpeed>
+<VerticalSpeed>-59</VerticalSpeed>
+<FlightTime>15</FlightTime>
+<Voltage>16.1</Voltage>
+<Current>36.2</Current>
+<Capacity>191</Capacity>
+<RCQuality>200</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>062</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>31, 0, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543864" lon="-112.2773339">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:36Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>206</Altimeter>
+<Variometer>2</Variometer>
+<Course>271</Course>
+<GroundSpeed>51</GroundSpeed>
+<VerticalSpeed>-69</VerticalSpeed>
+<FlightTime>16</FlightTime>
+<Voltage>16.1</Voltage>
+<Current>37.0</Current>
+<Capacity>203</Capacity>
+<RCQuality>203</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>060</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543869" lon="-112.2773229">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:37Z</time>
+<sat>7</sat>
+<extensions>
+<Altimeter>203</Altimeter>
+<Variometer>0</Variometer>
+<Course>270</Course>
+<GroundSpeed>140</GroundSpeed>
+<VerticalSpeed>-19</VerticalSpeed>
+<FlightTime>17</FlightTime>
+<Voltage>16.0</Voltage>
+<Current>35.4</Current>
+<Capacity>214</Capacity>
+<RCQuality>203</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>061</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543854" lon="-112.2773077">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:38Z</time>
+<sat>7</sat>
+<extensions>
+<Altimeter>202</Altimeter>
+<Variometer>-1</Variometer>
+<Course>259</Course>
+<GroundSpeed>204</GroundSpeed>
+<VerticalSpeed>30</VerticalSpeed>
+<FlightTime>18</FlightTime>
+<Voltage>16.0</Voltage>
+<Current>35.6</Current>
+<Capacity>224</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>051</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, 29</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543862" lon="-112.2772917">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:39Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>199</Altimeter>
+<Variometer>-2</Variometer>
+<Course>245</Course>
+<GroundSpeed>229</GroundSpeed>
+<VerticalSpeed>75</VerticalSpeed>
+<FlightTime>19</FlightTime>
+<Voltage>16.0</Voltage>
+<Current>36.8</Current>
+<Capacity>232</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>038</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, 14</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543840" lon="-112.2772735">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:40Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>205</Altimeter>
+<Variometer>4</Variometer>
+<Course>232</Course>
+<GroundSpeed>246</GroundSpeed>
+<VerticalSpeed>125</VerticalSpeed>
+<FlightTime>20</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>46.8</Current>
+<Capacity>244</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>028</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 8, 24</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543826" lon="-112.2772589">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:41Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>217</Altimeter>
+<Variometer>7</Variometer>
+<Course>228</Course>
+<GroundSpeed>121</GroundSpeed>
+<VerticalSpeed>117</VerticalSpeed>
+<FlightTime>21</FlightTime>
+<Voltage>16.1</Voltage>
+<Current>29.7</Current>
+<Capacity>255</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>027</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 12, 14</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543816" lon="-112.2772500">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:42Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>214</Altimeter>
+<Variometer>-1</Variometer>
+<Course>228</Course>
+<GroundSpeed>73</GroundSpeed>
+<VerticalSpeed>43</VerticalSpeed>
+<FlightTime>22</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>41.6</Current>
+<Capacity>265</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>024</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>004</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>4, 11, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543834" lon="-112.2772470">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:43Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>217</Altimeter>
+<Variometer>4</Variometer>
+<Course>228</Course>
+<GroundSpeed>59</GroundSpeed>
+<VerticalSpeed>71</VerticalSpeed>
+<FlightTime>23</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>46.3</Current>
+<Capacity>274</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>024</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543856" lon="-112.2772421">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:44Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>236</Altimeter>
+<Variometer>11</Variometer>
+<Course>228</Course>
+<GroundSpeed>47</GroundSpeed>
+<VerticalSpeed>83</VerticalSpeed>
+<FlightTime>24</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>37.5</Current>
+<Capacity>287</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>021</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543893" lon="-112.2772384">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:45Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>245</Altimeter>
+<Variometer>8</Variometer>
+<Course>228</Course>
+<GroundSpeed>91</GroundSpeed>
+<VerticalSpeed>22</VerticalSpeed>
+<FlightTime>25</FlightTime>
+<Voltage>16.0</Voltage>
+<Current>30.4</Current>
+<Capacity>297</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>025</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, 1, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543938" lon="-112.2772352">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:46Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>233</Altimeter>
+<Variometer>-8</Variometer>
+<Course>228</Course>
+<GroundSpeed>72</GroundSpeed>
+<VerticalSpeed>8</VerticalSpeed>
+<FlightTime>26</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>43.4</Current>
+<Capacity>308</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>024</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, 1, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543946" lon="-112.2772298">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:47Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>238</Altimeter>
+<Variometer>1</Variometer>
+<Course>228</Course>
+<GroundSpeed>76</GroundSpeed>
+<VerticalSpeed>21</VerticalSpeed>
+<FlightTime>27</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>37.3</Current>
+<Capacity>316</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>023</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543971" lon="-112.2772247">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:48Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>235</Altimeter>
+<Variometer>-2</Variometer>
+<Course>228</Course>
+<GroundSpeed>87</GroundSpeed>
+<VerticalSpeed>30</VerticalSpeed>
+<FlightTime>28</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>36.3</Current>
+<Capacity>327</Capacity>
+<RCQuality>206</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>025</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, 4, 11</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543995" lon="-112.2772206">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:49Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>230</Altimeter>
+<Variometer>-3</Variometer>
+<Course>228</Course>
+<GroundSpeed>64</GroundSpeed>
+<VerticalSpeed>29</VerticalSpeed>
+<FlightTime>29</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>39.0</Current>
+<Capacity>338</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>009</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, 3, 24</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543986" lon="-112.2772201">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:50Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>230</Altimeter>
+<Variometer>1</Variometer>
+<Course>228</Course>
+<GroundSpeed>24</GroundSpeed>
+<VerticalSpeed>23</VerticalSpeed>
+<FlightTime>30</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>35.9</Current>
+<Capacity>350</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>010</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 7, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543976" lon="-112.2772254">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:51Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>231</Altimeter>
+<Variometer>0</Variometer>
+<Course>228</Course>
+<GroundSpeed>71</GroundSpeed>
+<VerticalSpeed>-45</VerticalSpeed>
+<FlightTime>31</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>37.5</Current>
+<Capacity>357</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>006</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 11, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543963" lon="-112.2772300">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:52Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>236</Altimeter>
+<Variometer>4</Variometer>
+<Course>228</Course>
+<GroundSpeed>44</GroundSpeed>
+<VerticalSpeed>-4</VerticalSpeed>
+<FlightTime>32</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>37.2</Current>
+<Capacity>369</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>005</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>003</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 8, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543989" lon="-112.2772372">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:53Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>239</Altimeter>
+<Variometer>2</Variometer>
+<Course>228</Course>
+<GroundSpeed>24</GroundSpeed>
+<VerticalSpeed>43</VerticalSpeed>
+<FlightTime>33</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>34.5</Current>
+<Capacity>379</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>006</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 11, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544041" lon="-112.2772450">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:54Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>235</Altimeter>
+<Variometer>-2</Variometer>
+<Course>228</Course>
+<GroundSpeed>46</GroundSpeed>
+<VerticalSpeed>53</VerticalSpeed>
+<FlightTime>34</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>37.2</Current>
+<Capacity>390</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>007</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544100" lon="-112.2772529">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:55Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>233</Altimeter>
+<Variometer>-1</Variometer>
+<Course>228</Course>
+<GroundSpeed>50</GroundSpeed>
+<VerticalSpeed>80</VerticalSpeed>
+<FlightTime>35</FlightTime>
+<Voltage>15.9</Voltage>
+<Current>34.1</Current>
+<Capacity>401</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>007</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, 9, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544138" lon="-112.2772616">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:56Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>227</Altimeter>
+<Variometer>-2</Variometer>
+<Course>228</Course>
+<GroundSpeed>47</GroundSpeed>
+<VerticalSpeed>87</VerticalSpeed>
+<FlightTime>36</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>37.1</Current>
+<Capacity>408</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>007</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, 9, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544157" lon="-112.2772746">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:57Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>227</Altimeter>
+<Variometer>1</Variometer>
+<Course>228</Course>
+<GroundSpeed>109</GroundSpeed>
+<VerticalSpeed>84</VerticalSpeed>
+<FlightTime>37</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>35.9</Current>
+<Capacity>419</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>005</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, 9, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544146" lon="-112.2772927">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:58Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>225</Altimeter>
+<Variometer>-1</Variometer>
+<Course>228</Course>
+<GroundSpeed>156</GroundSpeed>
+<VerticalSpeed>69</VerticalSpeed>
+<FlightTime>38</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>36.3</Current>
+<Capacity>430</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>007</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>003</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, 8, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544110" lon="-112.2773150">
+<ele>0.000</ele>
+<time>2012-02-25T21:26:59Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>226</Altimeter>
+<Variometer>0</Variometer>
+<Course>230</Course>
+<GroundSpeed>205</GroundSpeed>
+<VerticalSpeed>37</VerticalSpeed>
+<FlightTime>39</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>37.9</Current>
+<Capacity>441</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>004</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 3, 20</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544084" lon="-112.2773347">
+<ele>0.000</ele>
+<time>2012-02-25T21:27:00Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>224</Altimeter>
+<Variometer>0</Variometer>
+<Course>231</Course>
+<GroundSpeed>160</GroundSpeed>
+<VerticalSpeed>68</VerticalSpeed>
+<FlightTime>40</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>39.7</Current>
+<Capacity>449</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>335</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, 42</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544047" lon="-112.2773551">
+<ele>0.000</ele>
+<time>2012-02-25T21:27:01Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>217</Altimeter>
+<Variometer>-5</Variometer>
+<Course>232</Course>
+<GroundSpeed>145</GroundSpeed>
+<VerticalSpeed>100</VerticalSpeed>
+<FlightTime>41</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>35.5</Current>
+<Capacity>460</Capacity>
+<RCQuality>206</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>296</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, 63</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544030" lon="-112.2773687">
+<ele>0.434</ele>
+<time>2012-02-25T21:27:02Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>220</Altimeter>
+<Variometer>2</Variometer>
+<Course>232</Course>
+<GroundSpeed>101</GroundSpeed>
+<VerticalSpeed>176</VerticalSpeed>
+<FlightTime>42</FlightTime>
+<Voltage>15.7</Voltage>
+<Current>40.3</Current>
+<Capacity>472</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>276</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>6, -3, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543957" lon="-112.2773801">
+<ele>1.260</ele>
+<time>2012-02-25T21:27:03Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>230</Altimeter>
+<Variometer>7</Variometer>
+<Course>232</Course>
+<GroundSpeed>74</GroundSpeed>
+<VerticalSpeed>167</VerticalSpeed>
+<FlightTime>43</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>34.2</Current>
+<Capacity>483</Capacity>
+<RCQuality>200</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>291</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>13, -6, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543952" lon="-112.2773908">
+<ele>1.268</ele>
+<time>2012-02-25T21:27:04Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>235</Altimeter>
+<Variometer>1</Variometer>
+<Course>232</Course>
+<GroundSpeed>99</GroundSpeed>
+<VerticalSpeed>133</VerticalSpeed>
+<FlightTime>44</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>34.1</Current>
+<Capacity>490</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>293</Compass>
+<NickAngle>004</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>14, -3, -11</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544029" lon="-112.2774071">
+<ele>1.452</ele>
+<time>2012-02-25T21:27:05Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>244</Altimeter>
+<Variometer>6</Variometer>
+<Course>236</Course>
+<GroundSpeed>172</GroundSpeed>
+<VerticalSpeed>136</VerticalSpeed>
+<FlightTime>45</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>39.6</Current>
+<Capacity>501</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>299</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>11, -3, -19</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544142" lon="-112.2774222">
+<ele>1.551</ele>
+<time>2012-02-25T21:27:06Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>258</Altimeter>
+<Variometer>11</Variometer>
+<Course>244</Course>
+<GroundSpeed>232</GroundSpeed>
+<VerticalSpeed>136</VerticalSpeed>
+<FlightTime>46</FlightTime>
+<Voltage>15.7</Voltage>
+<Current>42.3</Current>
+<Capacity>513</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>303</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>11, -1, -11</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544319" lon="-112.2774363">
+<ele>1.909</ele>
+<time>2012-02-25T21:27:07Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>278</Altimeter>
+<Variometer>11</Variometer>
+<Course>255</Course>
+<GroundSpeed>270</GroundSpeed>
+<VerticalSpeed>77</VerticalSpeed>
+<FlightTime>47</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>27.1</Current>
+<Capacity>523</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>301</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>13, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544515" lon="-112.2774495">
+<ele>1.608</ele>
+<time>2012-02-25T21:27:08Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>274</Altimeter>
+<Variometer>0</Variometer>
+<Course>267</Course>
+<GroundSpeed>279</GroundSpeed>
+<VerticalSpeed>58</VerticalSpeed>
+<FlightTime>48</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>34.4</Current>
+<Capacity>533</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>295</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>10, -1, 8</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544736" lon="-112.2774651">
+<ele>1.950</ele>
+<time>2012-02-25T21:27:09Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>275</Altimeter>
+<Variometer>1</Variometer>
+<Course>276</Course>
+<GroundSpeed>309</GroundSpeed>
+<VerticalSpeed>91</VerticalSpeed>
+<FlightTime>49</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>36.6</Current>
+<Capacity>540</Capacity>
+<RCQuality>198</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>287</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>8, 1, 21</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544965" lon="-112.2774797">
+<ele>2.461</ele>
+<time>2012-02-25T21:27:10Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>283</Altimeter>
+<Variometer>7</Variometer>
+<Course>285</Course>
+<GroundSpeed>313</GroundSpeed>
+<VerticalSpeed>111</VerticalSpeed>
+<FlightTime>50</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>53.7</Current>
+<Capacity>553</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>274</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 0, 24</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545213" lon="-112.2774950">
+<ele>3.756</ele>
+<time>2012-02-25T21:27:11Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>329</Altimeter>
+<Variometer>31</Variometer>
+<Course>293</Course>
+<GroundSpeed>318</GroundSpeed>
+<VerticalSpeed>166</VerticalSpeed>
+<FlightTime>51</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>36.2</Current>
+<Capacity>568</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>266</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>004</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>9, 17, 14</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545480" lon="-112.2775118">
+<ele>4.593</ele>
+<time>2012-02-25T21:27:12Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>370</Altimeter>
+<Variometer>32</Variometer>
+<Course>297</Course>
+<GroundSpeed>286</GroundSpeed>
+<VerticalSpeed>86</VerticalSpeed>
+<FlightTime>52</FlightTime>
+<Voltage>15.8</Voltage>
+<Current>30.6</Current>
+<Capacity>577</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>257</Compass>
+<NickAngle>005</NickAngle>
+<RollAngle>007</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>23, 23, 17</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545533" lon="-112.2775314">
+<ele>4.988</ele>
+<time>2012-02-25T21:27:13Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>384</Altimeter>
+<Variometer>19</Variometer>
+<Course>297</Course>
+<GroundSpeed>219</GroundSpeed>
+<VerticalSpeed>85</VerticalSpeed>
+<FlightTime>53</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>46.9</Current>
+<Capacity>585</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>251</Compass>
+<NickAngle>007</NickAngle>
+<RollAngle>005</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>24, 11, 14</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545336" lon="-112.2775590">
+<ele>6.118</ele>
+<time>2012-02-25T21:27:14Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>427</Altimeter>
+<Variometer>31</Variometer>
+<Course>291</Course>
+<GroundSpeed>403</GroundSpeed>
+<VerticalSpeed>122</VerticalSpeed>
+<FlightTime>54</FlightTime>
+<Voltage>15.6</Voltage>
+<Current>46.5</Current>
+<Capacity>599</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>248</Compass>
+<NickAngle>008</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>27, 4, -10</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545020" lon="-112.2775959">
+<ele>6.993</ele>
+<time>2012-02-25T21:27:15Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>462</Altimeter>
+<Variometer>32</Variometer>
+<Course>280</Course>
+<GroundSpeed>506</GroundSpeed>
+<VerticalSpeed>52</VerticalSpeed>
+<FlightTime>55</FlightTime>
+<Voltage>15.7</Voltage>
+<Current>37.5</Current>
+<Capacity>611</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>262</Compass>
+<NickAngle>007</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>24, 3, -24</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544648" lon="-112.2776429">
+<ele>7.693</ele>
+<time>2012-02-25T21:27:16Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>487</Altimeter>
+<Variometer>19</Variometer>
+<Course>268</Course>
+<GroundSpeed>699</GroundSpeed>
+<VerticalSpeed>75</VerticalSpeed>
+<FlightTime>56</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>57.7</Current>
+<Capacity>626</Capacity>
+<RCQuality>198</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>276</Compass>
+<NickAngle>006</NickAngle>
+<RollAngle>-08</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>26, -44, -21</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544328" lon="-112.2777049">
+<ele>9.054</ele>
+<time>2012-02-25T21:27:17Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>545</Altimeter>
+<Variometer>43</Variometer>
+<Course>260</Course>
+<GroundSpeed>759</GroundSpeed>
+<VerticalSpeed>138</VerticalSpeed>
+<FlightTime>57</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>57.0</Current>
+<Capacity>637</Capacity>
+<RCQuality>198</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>283</Compass>
+<NickAngle>007</NickAngle>
+<RollAngle>-12</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>21, -25, -14</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544296" lon="-112.2777884">
+<ele>9.917</ele>
+<time>2012-02-25T21:27:18Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>634</Altimeter>
+<Variometer>57</Variometer>
+<Course>263</Course>
+<GroundSpeed>900</GroundSpeed>
+<VerticalSpeed>131</VerticalSpeed>
+<FlightTime>58</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>57.6</Current>
+<Capacity>654</Capacity>
+<RCQuality>207</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>290</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>-08</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-17, -25, -18</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544707" lon="-112.2778889">
+<ele>11.128</ele>
+<time>2012-02-25T21:27:19Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>705</Altimeter>
+<Variometer>69</Variometer>
+<Course>269</Course>
+<GroundSpeed>1184</GroundSpeed>
+<VerticalSpeed>125</VerticalSpeed>
+<FlightTime>59</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>63.6</Current>
+<Capacity>673</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>299</Compass>
+<NickAngle>-11</NickAngle>
+<RollAngle>-05</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-9, -11, -16</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545317" lon="-112.2779830">
+<ele>14.864</ele>
+<time>2012-02-25T21:27:20Z</time>
+<sat>7</sat>
+<extensions>
+<Altimeter>833</Altimeter>
+<Variometer>83</Variometer>
+<Course>277</Course>
+<GroundSpeed>996</GroundSpeed>
+<VerticalSpeed>212</VerticalSpeed>
+<FlightTime>60</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>41.7</Current>
+<Capacity>688</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>306</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-8, -9, -14</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545467" lon="-112.2780322">
+<ele>19.538</ele>
+<time>2012-02-25T21:27:22Z</time>
+<sat>7</sat>
+<extensions>
+<Altimeter>912</Altimeter>
+<Variometer>52</Variometer>
+<Course>278</Course>
+<GroundSpeed>608</GroundSpeed>
+<VerticalSpeed>260</VerticalSpeed>
+<FlightTime>61</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>41.5</Current>
+<Capacity>697</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>314</Compass>
+<NickAngle>-38</NickAngle>
+<RollAngle>-09</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-126, -34, -17</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545481" lon="-112.2780322">
+<ele>26.815</ele>
+<time>2012-02-25T21:27:23Z</time>
+<sat>7</sat>
+<extensions>
+<Altimeter>1012</Altimeter>
+<Variometer>59</Variometer>
+<Course>280</Course>
+<GroundSpeed>166</GroundSpeed>
+<VerticalSpeed>328</VerticalSpeed>
+<FlightTime>62</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>79.3</Current>
+<Capacity>715</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>315</Compass>
+<NickAngle>-23</NickAngle>
+<RollAngle>-09</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-5, -2, -16</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545392" lon="-112.2779882">
+<ele>30.949</ele>
+<time>2012-02-25T21:27:24Z</time>
+<sat>7</sat>
+<extensions>
+<Altimeter>1065</Altimeter>
+<Variometer>56</Variometer>
+<Course>292</Course>
+<GroundSpeed>322</GroundSpeed>
+<VerticalSpeed>358</VerticalSpeed>
+<FlightTime>63</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>42.3</Current>
+<Capacity>732</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>321</Compass>
+<NickAngle>013</NickAngle>
+<RollAngle>003</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, -1, -11</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545356" lon="-112.2779628">
+<ele>33.911</ele>
+<time>2012-02-25T21:27:25Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1125</Altimeter>
+<Variometer>39</Variometer>
+<Course>294</Course>
+<GroundSpeed>167</GroundSpeed>
+<VerticalSpeed>324</VerticalSpeed>
+<FlightTime>64</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>43.4</Current>
+<Capacity>745</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>321</Compass>
+<NickAngle>-23</NickAngle>
+<RollAngle>-04</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-33, -11, -11</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545317" lon="-112.2779395">
+<ele>36.235</ele>
+<time>2012-02-25T21:27:26Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1170</Altimeter>
+<Variometer>26</Variometer>
+<Course>297</Course>
+<GroundSpeed>195</GroundSpeed>
+<VerticalSpeed>280</VerticalSpeed>
+<FlightTime>65</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>36.6</Current>
+<Capacity>756</Capacity>
+<RCQuality>198</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>315</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545301" lon="-112.2779237">
+<ele>37.690</ele>
+<time>2012-02-25T21:27:27Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1188</Altimeter>
+<Variometer>14</Variometer>
+<Course>297</Course>
+<GroundSpeed>145</GroundSpeed>
+<VerticalSpeed>244</VerticalSpeed>
+<FlightTime>66</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>42.1</Current>
+<Capacity>764</Capacity>
+<RCQuality>207</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>295</Compass>
+<NickAngle>-03</NickAngle>
+<RollAngle>-04</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-16, -11, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545301" lon="-112.2779085">
+<ele>39.063</ele>
+<time>2012-02-25T21:27:28Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1209</Altimeter>
+<Variometer>14</Variometer>
+<Course>299</Course>
+<GroundSpeed>165</GroundSpeed>
+<VerticalSpeed>215</VerticalSpeed>
+<FlightTime>67</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>42.4</Current>
+<Capacity>777</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>293</Compass>
+<NickAngle>-05</NickAngle>
+<RollAngle>-03</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-12, -9, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545301" lon="-112.2778861">
+<ele>40.086</ele>
+<time>2012-02-25T21:27:29Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1224</Altimeter>
+<Variometer>22</Variometer>
+<Course>302</Course>
+<GroundSpeed>235</GroundSpeed>
+<VerticalSpeed>175</VerticalSpeed>
+<FlightTime>68</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>38.9</Current>
+<Capacity>789</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>293</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-9, -9, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545263" lon="-112.2778520">
+<ele>41.025</ele>
+<time>2012-02-25T21:27:30Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1243</Altimeter>
+<Variometer>17</Variometer>
+<Course>310</Course>
+<GroundSpeed>337</GroundSpeed>
+<VerticalSpeed>154</VerticalSpeed>
+<FlightTime>69</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>40.4</Current>
+<Capacity>801</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>294</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>-02</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-9, -8, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545238" lon="-112.2778145">
+<ele>41.839</ele>
+<time>2012-02-25T21:27:31Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1262</Altimeter>
+<Variometer>12</Variometer>
+<Course>322</Course>
+<GroundSpeed>383</GroundSpeed>
+<VerticalSpeed>128</VerticalSpeed>
+<FlightTime>70</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>36.7</Current>
+<Capacity>808</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>293</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, -6, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545200" lon="-112.2777739">
+<ele>42.139</ele>
+<time>2012-02-25T21:27:32Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1272</Altimeter>
+<Variometer>7</Variometer>
+<Course>334</Course>
+<GroundSpeed>389</GroundSpeed>
+<VerticalSpeed>76</VerticalSpeed>
+<FlightTime>71</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>37.6</Current>
+<Capacity>820</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>293</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-4, -3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545158" lon="-112.2777310">
+<ele>42.735</ele>
+<time>2012-02-25T21:27:33Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1276</Altimeter>
+<Variometer>4</Variometer>
+<Course>346</Course>
+<GroundSpeed>417</GroundSpeed>
+<VerticalSpeed>59</VerticalSpeed>
+<FlightTime>72</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>41.2</Current>
+<Capacity>832</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>294</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545111" lon="-112.2776800">
+<ele>43.575</ele>
+<time>2012-02-25T21:27:34Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1293</Altimeter>
+<Variometer>13</Variometer>
+<Course>358</Course>
+<GroundSpeed>404</GroundSpeed>
+<VerticalSpeed>59</VerticalSpeed>
+<FlightTime>73</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>34.8</Current>
+<Capacity>843</Capacity>
+<RCQuality>198</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>297</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -3, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545081" lon="-112.2776419">
+<ele>44.216</ele>
+<time>2012-02-25T21:27:35Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1303</Altimeter>
+<Variometer>10</Variometer>
+<Course>005</Course>
+<GroundSpeed>346</GroundSpeed>
+<VerticalSpeed>45</VerticalSpeed>
+<FlightTime>74</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>35.5</Current>
+<Capacity>850</Capacity>
+<RCQuality>207</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>295</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545075" lon="-112.2776096">
+<ele>44.924</ele>
+<time>2012-02-25T21:27:36Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1305</Altimeter>
+<Variometer>2</Variometer>
+<Course>011</Course>
+<GroundSpeed>289</GroundSpeed>
+<VerticalSpeed>60</VerticalSpeed>
+<FlightTime>75</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>35.7</Current>
+<Capacity>861</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>295</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545089" lon="-112.2775853">
+<ele>45.537</ele>
+<time>2012-02-25T21:27:37Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1308</Altimeter>
+<Variometer>2</Variometer>
+<Course>014</Course>
+<GroundSpeed>215</GroundSpeed>
+<VerticalSpeed>52</VerticalSpeed>
+<FlightTime>76</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>37.2</Current>
+<Capacity>872</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>292</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>0, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545116" lon="-112.2775678">
+<ele>45.829</ele>
+<time>2012-02-25T21:27:38Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1314</Altimeter>
+<Variometer>4</Variometer>
+<Course>015</Course>
+<GroundSpeed>159</GroundSpeed>
+<VerticalSpeed>28</VerticalSpeed>
+<FlightTime>77</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>37.1</Current>
+<Capacity>883</Capacity>
+<RCQuality>200</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>292</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, -6, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545140" lon="-112.2775533">
+<ele>46.047</ele>
+<time>2012-02-25T21:27:39Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1319</Altimeter>
+<Variometer>4</Variometer>
+<Course>016</Course>
+<GroundSpeed>160</GroundSpeed>
+<VerticalSpeed>17</VerticalSpeed>
+<FlightTime>78</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>34.5</Current>
+<Capacity>890</Capacity>
+<RCQuality>200</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>293</Compass>
+<NickAngle>-03</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-11, -6, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545179" lon="-112.2775345">
+<ele>45.678</ele>
+<time>2012-02-25T21:27:40Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1315</Altimeter>
+<Variometer>0</Variometer>
+<Course>017</Course>
+<GroundSpeed>186</GroundSpeed>
+<VerticalSpeed>36</VerticalSpeed>
+<FlightTime>79</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>36.8</Current>
+<Capacity>901</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>292</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-9, -6, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545213" lon="-112.2775136">
+<ele>45.812</ele>
+<time>2012-02-25T21:27:41Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1310</Altimeter>
+<Variometer>-2</Variometer>
+<Course>019</Course>
+<GroundSpeed>218</GroundSpeed>
+<VerticalSpeed>47</VerticalSpeed>
+<FlightTime>80</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>37.1</Current>
+<Capacity>912</Capacity>
+<RCQuality>203</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>293</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, -3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545235" lon="-112.2774897">
+<ele>45.866</ele>
+<time>2012-02-25T21:27:42Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1306</Altimeter>
+<Variometer>-3</Variometer>
+<Course>021</Course>
+<GroundSpeed>225</GroundSpeed>
+<VerticalSpeed>15</VerticalSpeed>
+<FlightTime>81</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>35.8</Current>
+<Capacity>923</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>292</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, -1, -12</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545243" lon="-112.2774666">
+<ele>45.876</ele>
+<time>2012-02-25T21:27:43Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1307</Altimeter>
+<Variometer>0</Variometer>
+<Course>023</Course>
+<GroundSpeed>221</GroundSpeed>
+<VerticalSpeed>6</VerticalSpeed>
+<FlightTime>82</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>38.2</Current>
+<Capacity>935</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>299</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, -1, -24</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545208" lon="-112.2774424">
+<ele>45.995</ele>
+<time>2012-02-25T21:27:44Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1313</Altimeter>
+<Variometer>2</Variometer>
+<Course>025</Course>
+<GroundSpeed>224</GroundSpeed>
+<VerticalSpeed>-12</VerticalSpeed>
+<FlightTime>83</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>34.1</Current>
+<Capacity>945</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>310</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -24</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545203" lon="-112.2774199">
+<ele>46.006</ele>
+<time>2012-02-25T21:27:45Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1312</Altimeter>
+<Variometer>0</Variometer>
+<Course>027</Course>
+<GroundSpeed>205</GroundSpeed>
+<VerticalSpeed>-17</VerticalSpeed>
+<FlightTime>84</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>33.2</Current>
+<Capacity>952</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>320</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -24</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545228" lon="-112.2774048">
+<ele>45.912</ele>
+<time>2012-02-25T21:27:46Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1298</Altimeter>
+<Variometer>-8</Variometer>
+<Course>028</Course>
+<GroundSpeed>151</GroundSpeed>
+<VerticalSpeed>-9</VerticalSpeed>
+<FlightTime>85</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>35.7</Current>
+<Capacity>963</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>330</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -24</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545257" lon="-112.2773906">
+<ele>45.519</ele>
+<time>2012-02-25T21:27:47Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1288</Altimeter>
+<Variometer>-10</Variometer>
+<Course>028</Course>
+<GroundSpeed>136</GroundSpeed>
+<VerticalSpeed>2</VerticalSpeed>
+<FlightTime>86</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>39.1</Current>
+<Capacity>974</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>340</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -21</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545304" lon="-112.2773827">
+<ele>45.725</ele>
+<time>2012-02-25T21:27:48Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1279</Altimeter>
+<Variometer>-6</Variometer>
+<Course>028</Course>
+<GroundSpeed>108</GroundSpeed>
+<VerticalSpeed>38</VerticalSpeed>
+<FlightTime>87</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>34.6</Current>
+<Capacity>985</Capacity>
+<RCQuality>194</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>350</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -4, -21</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545337" lon="-112.2773763">
+<ele>45.648</ele>
+<time>2012-02-25T21:27:49Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1265</Altimeter>
+<Variometer>-11</Variometer>
+<Course>028</Course>
+<GroundSpeed>89</GroundSpeed>
+<VerticalSpeed>23</VerticalSpeed>
+<FlightTime>88</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>32.5</Current>
+<Capacity>995</Capacity>
+<RCQuality>203</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>354</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545357" lon="-112.2773724">
+<ele>44.779</ele>
+<time>2012-02-25T21:27:50Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1237</Altimeter>
+<Variometer>-22</Variometer>
+<Course>028</Course>
+<GroundSpeed>59</GroundSpeed>
+<VerticalSpeed>-41</VerticalSpeed>
+<FlightTime>89</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>36.0</Current>
+<Capacity>1002</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>351</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545339" lon="-112.2773728">
+<ele>43.565</ele>
+<time>2012-02-25T21:27:51Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>1222</Altimeter>
+<Variometer>-16</Variometer>
+<Course>028</Course>
+<GroundSpeed>28</GroundSpeed>
+<VerticalSpeed>-88</VerticalSpeed>
+<FlightTime>90</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>40.2</Current>
+<Capacity>1014</Capacity>
+<RCQuality>200</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>352</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545315" lon="-112.2773752">
+<ele>42.644</ele>
+<time>2012-02-25T21:27:52Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>1207</Altimeter>
+<Variometer>-9</Variometer>
+<Course>028</Course>
+<GroundSpeed>43</GroundSpeed>
+<VerticalSpeed>-75</VerticalSpeed>
+<FlightTime>91</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>38.7</Current>
+<Capacity>1026</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>346</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545268" lon="-112.2773759">
+<ele>41.306</ele>
+<time>2012-02-25T21:27:53Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>1194</Altimeter>
+<Variometer>-8</Variometer>
+<Course>028</Course>
+<GroundSpeed>47</GroundSpeed>
+<VerticalSpeed>-151</VerticalSpeed>
+<FlightTime>92</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>35.6</Current>
+<Capacity>1037</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>350</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545220" lon="-112.2773761">
+<ele>39.506</ele>
+<time>2012-02-25T21:27:54Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>1173</Altimeter>
+<Variometer>-14</Variometer>
+<Course>028</Course>
+<GroundSpeed>33</GroundSpeed>
+<VerticalSpeed>-179</VerticalSpeed>
+<FlightTime>93</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>34.3</Current>
+<Capacity>1044</Capacity>
+<RCQuality>203</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>351</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545202" lon="-112.2773754">
+<ele>37.456</ele>
+<time>2012-02-25T21:27:55Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>1142</Altimeter>
+<Variometer>-21</Variometer>
+<Course>028</Course>
+<GroundSpeed>10</GroundSpeed>
+<VerticalSpeed>-154</VerticalSpeed>
+<FlightTime>94</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>34.2</Current>
+<Capacity>1054</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>348</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545237" lon="-112.2773735">
+<ele>36.205</ele>
+<time>2012-02-25T21:27:56Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>1106</Altimeter>
+<Variometer>-24</Variometer>
+<Course>028</Course>
+<GroundSpeed>61</GroundSpeed>
+<VerticalSpeed>-107</VerticalSpeed>
+<FlightTime>95</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>36.3</Current>
+<Capacity>1065</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>345</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>0, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545287" lon="-112.2773707">
+<ele>35.209</ele>
+<time>2012-02-25T21:27:57Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1085</Altimeter>
+<Variometer>-21</Variometer>
+<Course>028</Course>
+<GroundSpeed>91</GroundSpeed>
+<VerticalSpeed>-56</VerticalSpeed>
+<FlightTime>96</FlightTime>
+<Voltage>15.5</Voltage>
+<Current>37.3</Current>
+<Capacity>1076</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>347</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -4, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545325" lon="-112.2773657">
+<ele>34.417</ele>
+<time>2012-02-25T21:27:58Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1054</Altimeter>
+<Variometer>-18</Variometer>
+<Course>028</Course>
+<GroundSpeed>100</GroundSpeed>
+<VerticalSpeed>-15</VerticalSpeed>
+<FlightTime>97</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>37.7</Current>
+<Capacity>1088</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>347</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, 0, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545341" lon="-112.2773606">
+<ele>33.310</ele>
+<time>2012-02-25T21:28:00Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1030</Altimeter>
+<Variometer>-16</Variometer>
+<Course>028</Course>
+<GroundSpeed>71</GroundSpeed>
+<VerticalSpeed>-21</VerticalSpeed>
+<FlightTime>98</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>32.5</Current>
+<Capacity>1098</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>349</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545350" lon="-112.2773556">
+<ele>32.106</ele>
+<time>2012-02-25T21:28:00Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>993</Altimeter>
+<Variometer>-30</Variometer>
+<Course>028</Course>
+<GroundSpeed>57</GroundSpeed>
+<VerticalSpeed>-97</VerticalSpeed>
+<FlightTime>99</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>33.7</Current>
+<Capacity>1105</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>351</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545348" lon="-112.2773525">
+<ele>30.181</ele>
+<time>2012-02-25T21:28:02Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>968</Altimeter>
+<Variometer>-27</Variometer>
+<Course>028</Course>
+<GroundSpeed>48</GroundSpeed>
+<VerticalSpeed>-108</VerticalSpeed>
+<FlightTime>100</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>36.5</Current>
+<Capacity>1116</Capacity>
+<RCQuality>203</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>349</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545361" lon="-112.2773484">
+<ele>28.698</ele>
+<time>2012-02-25T21:28:03Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>933</Altimeter>
+<Variometer>-24</Variometer>
+<Course>028</Course>
+<GroundSpeed>45</GroundSpeed>
+<VerticalSpeed>-109</VerticalSpeed>
+<FlightTime>101</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>35.1</Current>
+<Capacity>1126</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>350</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545394" lon="-112.2773454">
+<ele>27.205</ele>
+<time>2012-02-25T21:28:04Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>899</Altimeter>
+<Variometer>-24</Variometer>
+<Course>028</Course>
+<GroundSpeed>55</GroundSpeed>
+<VerticalSpeed>-125</VerticalSpeed>
+<FlightTime>102</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>34.5</Current>
+<Capacity>1136</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>347</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545456" lon="-112.2773421">
+<ele>25.826</ele>
+<time>2012-02-25T21:28:05Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>867</Altimeter>
+<Variometer>-21</Variometer>
+<Course>028</Course>
+<GroundSpeed>74</GroundSpeed>
+<VerticalSpeed>-150</VerticalSpeed>
+<FlightTime>103</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>34.7</Current>
+<Capacity>1143</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>345</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-4, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545518" lon="-112.2773391">
+<ele>24.350</ele>
+<time>2012-02-25T21:28:06Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>831</Altimeter>
+<Variometer>-22</Variometer>
+<Course>028</Course>
+<GroundSpeed>79</GroundSpeed>
+<VerticalSpeed>-137</VerticalSpeed>
+<FlightTime>104</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>36.5</Current>
+<Capacity>1154</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>348</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, -1, -21</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545569" lon="-112.2773362">
+<ele>22.967</ele>
+<time>2012-02-25T21:28:07Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>818</Altimeter>
+<Variometer>-24</Variometer>
+<Course>028</Course>
+<GroundSpeed>70</GroundSpeed>
+<VerticalSpeed>-137</VerticalSpeed>
+<FlightTime>105</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>37.0</Current>
+<Capacity>1165</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>357</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, -1, -26</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545616" lon="-112.2773316">
+<ele>21.492</ele>
+<time>2012-02-25T21:28:08Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>772</Altimeter>
+<Variometer>-34</Variometer>
+<Course>028</Course>
+<GroundSpeed>26</GroundSpeed>
+<VerticalSpeed>-189</VerticalSpeed>
+<FlightTime>106</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>34.6</Current>
+<Capacity>1176</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>009</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, -1, -29</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545629" lon="-112.2773250">
+<ele>19.681</ele>
+<time>2012-02-25T21:28:09Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>733</Altimeter>
+<Variometer>-26</Variometer>
+<Course>028</Course>
+<GroundSpeed>66</GroundSpeed>
+<VerticalSpeed>-210</VerticalSpeed>
+<FlightTime>107</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>35.4</Current>
+<Capacity>1182</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>019</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-4, -1, -27</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545580" lon="-112.2773171">
+<ele>17.604</ele>
+<time>2012-02-25T21:28:10Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>695</Altimeter>
+<Variometer>-24</Variometer>
+<Course>028</Course>
+<GroundSpeed>114</GroundSpeed>
+<VerticalSpeed>-181</VerticalSpeed>
+<FlightTime>108</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>39.5</Current>
+<Capacity>1194</Capacity>
+<RCQuality>200</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>024</Compass>
+<NickAngle>-03</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, -1, -27</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545500" lon="-112.2773039">
+<ele>15.670</ele>
+<time>2012-02-25T21:28:11Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>672</Altimeter>
+<Variometer>-23</Variometer>
+<Course>030</Course>
+<GroundSpeed>128</GroundSpeed>
+<VerticalSpeed>-152</VerticalSpeed>
+<FlightTime>109</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>38.4</Current>
+<Capacity>1206</Capacity>
+<RCQuality>203</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>037</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, -1, -27</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545436" lon="-112.2772917">
+<ele>14.231</ele>
+<time>2012-02-25T21:28:12Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>641</Altimeter>
+<Variometer>-26</Variometer>
+<Course>033</Course>
+<GroundSpeed>123</GroundSpeed>
+<VerticalSpeed>-153</VerticalSpeed>
+<FlightTime>110</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>33.2</Current>
+<Capacity>1217</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>055</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-9, -1, -22</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545406" lon="-112.2772817">
+<ele>12.463</ele>
+<time>2012-02-25T21:28:13Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>599</Altimeter>
+<Variometer>-26</Variometer>
+<Course>033</Course>
+<GroundSpeed>81</GroundSpeed>
+<VerticalSpeed>-186</VerticalSpeed>
+<FlightTime>111</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>36.4</Current>
+<Capacity>1227</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>066</Compass>
+<NickAngle>-03</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-9, -3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545401" lon="-112.2772776">
+<ele>10.326</ele>
+<time>2012-02-25T21:28:14Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>561</Altimeter>
+<Variometer>-24</Variometer>
+<Course>033</Course>
+<GroundSpeed>21</GroundSpeed>
+<VerticalSpeed>-246</VerticalSpeed>
+<FlightTime>112</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>36.4</Current>
+<Capacity>1238</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>078</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-9, -3, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545390" lon="-112.2772803">
+<ele>8.255</ele>
+<time>2012-02-25T21:28:15Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>529</Altimeter>
+<Variometer>-19</Variometer>
+<Course>033</Course>
+<GroundSpeed>33</GroundSpeed>
+<VerticalSpeed>-241</VerticalSpeed>
+<FlightTime>113</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>37.9</Current>
+<Capacity>1245</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>075</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-7, -6, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545383" lon="-112.2772863">
+<ele>6.841</ele>
+<time>2012-02-25T21:28:16Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>504</Altimeter>
+<Variometer>-19</Variometer>
+<Course>033</Course>
+<GroundSpeed>72</GroundSpeed>
+<VerticalSpeed>-192</VerticalSpeed>
+<FlightTime>114</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>31.2</Current>
+<Capacity>1256</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>075</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, -6, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545344" lon="-112.2772956">
+<ele>4.856</ele>
+<time>2012-02-25T21:28:17Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>481</Altimeter>
+<Variometer>-20</Variometer>
+<Course>033</Course>
+<GroundSpeed>83</GroundSpeed>
+<VerticalSpeed>-181</VerticalSpeed>
+<FlightTime>115</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>33.0</Current>
+<Capacity>1266</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>081</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, -6, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545320" lon="-112.2773051">
+<ele>3.841</ele>
+<time>2012-02-25T21:28:18Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>443</Altimeter>
+<Variometer>-28</Variometer>
+<Course>032</Course>
+<GroundSpeed>120</GroundSpeed>
+<VerticalSpeed>-128</VerticalSpeed>
+<FlightTime>116</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>31.4</Current>
+<Capacity>1275</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>083</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, -6, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545284" lon="-112.2773193">
+<ele>2.623</ele>
+<time>2012-02-25T21:28:19Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>411</Altimeter>
+<Variometer>-21</Variometer>
+<Course>028</Course>
+<GroundSpeed>149</GroundSpeed>
+<VerticalSpeed>-124</VerticalSpeed>
+<FlightTime>117</FlightTime>
+<Voltage>15.4</Voltage>
+<Current>31.7</Current>
+<Capacity>1282</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>080</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-02</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545204" lon="-112.2773332">
+<ele>1.201</ele>
+<time>2012-02-25T21:28:20Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>382</Altimeter>
+<Variometer>-17</Variometer>
+<Course>023</Course>
+<GroundSpeed>157</GroundSpeed>
+<VerticalSpeed>-122</VerticalSpeed>
+<FlightTime>118</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>37.5</Current>
+<Capacity>1292</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>074</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>8, 1, 15</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545117" lon="-112.2773392">
+<ele>0.169</ele>
+<time>2012-02-25T21:28:21Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>363</Altimeter>
+<Variometer>-14</Variometer>
+<Course>025</Course>
+<GroundSpeed>147</GroundSpeed>
+<VerticalSpeed>-75</VerticalSpeed>
+<FlightTime>119</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>38.3</Current>
+<Capacity>1303</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>047</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-04</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>4, 1, 34</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545000" lon="-112.2773388">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:22Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>344</Altimeter>
+<Variometer>-11</Variometer>
+<Course>031</Course>
+<GroundSpeed>119</GroundSpeed>
+<VerticalSpeed>-25</VerticalSpeed>
+<FlightTime>120</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>31.4</Current>
+<Capacity>1314</Capacity>
+<RCQuality>203</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>022</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 2, 37</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544841" lon="-112.2773332">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:23Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>321</Altimeter>
+<Variometer>-19</Variometer>
+<Course>035</Course>
+<GroundSpeed>181</GroundSpeed>
+<VerticalSpeed>-52</VerticalSpeed>
+<FlightTime>121</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>32.6</Current>
+<Capacity>1320</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>006</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544662" lon="-112.2773208">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:24Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>301</Altimeter>
+<Variometer>-11</Variometer>
+<Course>044</Course>
+<GroundSpeed>263</GroundSpeed>
+<VerticalSpeed>-20</VerticalSpeed>
+<FlightTime>122</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>42.2</Current>
+<Capacity>1332</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>006</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, 3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544461" lon="-112.2773043">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:25Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>293</Altimeter>
+<Variometer>-7</Variometer>
+<Course>056</Course>
+<GroundSpeed>291</GroundSpeed>
+<VerticalSpeed>24</VerticalSpeed>
+<FlightTime>123</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>33.1</Current>
+<Capacity>1343</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>010</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-8, 6, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544247" lon="-112.2772926">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:26Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>282</Altimeter>
+<Variometer>-8</Variometer>
+<Course>065</Course>
+<GroundSpeed>267</GroundSpeed>
+<VerticalSpeed>55</VerticalSpeed>
+<FlightTime>124</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>36.9</Current>
+<Capacity>1353</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>012</Compass>
+<NickAngle>-05</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, 5, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544006" lon="-112.2772874">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:27Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>272</Altimeter>
+<Variometer>-9</Variometer>
+<Course>073</Course>
+<GroundSpeed>241</GroundSpeed>
+<VerticalSpeed>51</VerticalSpeed>
+<FlightTime>125</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>35.9</Current>
+<Capacity>1360</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>014</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>003</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>0, 18, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543823" lon="-112.2772896">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:28Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>271</Altimeter>
+<Variometer>0</Variometer>
+<Course>078</Course>
+<GroundSpeed>149</GroundSpeed>
+<VerticalSpeed>23</VerticalSpeed>
+<FlightTime>126</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>34.1</Current>
+<Capacity>1371</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>015</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 11, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543723" lon="-112.2772985">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:29Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>256</Altimeter>
+<Variometer>-11</Variometer>
+<Course>079</Course>
+<GroundSpeed>107</GroundSpeed>
+<VerticalSpeed>-57</VerticalSpeed>
+<FlightTime>127</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>35.8</Current>
+<Capacity>1381</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>013</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>7, 3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543717" lon="-112.2773078">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:30Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>239</Altimeter>
+<Variometer>-13</Variometer>
+<Course>079</Course>
+<GroundSpeed>92</GroundSpeed>
+<VerticalSpeed>-57</VerticalSpeed>
+<FlightTime>128</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>40.4</Current>
+<Capacity>1393</Capacity>
+<RCQuality>194</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>008</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>8, 3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543776" lon="-112.2773133">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:31Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>237</Altimeter>
+<Variometer>-3</Variometer>
+<Course>078</Course>
+<GroundSpeed>123</GroundSpeed>
+<VerticalSpeed>-35</VerticalSpeed>
+<FlightTime>129</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>38.1</Current>
+<Capacity>1401</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>011</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>6, 3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543919" lon="-112.2773185">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:32Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>238</Altimeter>
+<Variometer>-1</Variometer>
+<Course>074</Course>
+<GroundSpeed>210</GroundSpeed>
+<VerticalSpeed>-14</VerticalSpeed>
+<FlightTime>130</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>31.4</Current>
+<Capacity>1411</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>012</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544154" lon="-112.2773233">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:33Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>234</Altimeter>
+<Variometer>-2</Variometer>
+<Course>067</Course>
+<GroundSpeed>279</GroundSpeed>
+<VerticalSpeed>11</VerticalSpeed>
+<FlightTime>131</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>34.8</Current>
+<Capacity>1421</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>002</Compass>
+<NickAngle>-04</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-14, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544356" lon="-112.2773252">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:34Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>223</Altimeter>
+<Variometer>-7</Variometer>
+<Course>063</Course>
+<GroundSpeed>217</GroundSpeed>
+<VerticalSpeed>46</VerticalSpeed>
+<FlightTime>132</FlightTime>
+<Voltage>15.2</Voltage>
+<Current>37.9</Current>
+<Capacity>1433</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>346</Compass>
+<NickAngle>-07</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-16, 1, 50</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544471" lon="-112.2773261">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:35Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>218</Altimeter>
+<Variometer>-1</Variometer>
+<Course>061</Course>
+<GroundSpeed>95</GroundSpeed>
+<VerticalSpeed>91</VerticalSpeed>
+<FlightTime>133</FlightTime>
+<Voltage>15.2</Voltage>
+<Current>39.5</Current>
+<Capacity>1440</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>314</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>003</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, 6, 34</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544541" lon="-112.2773268">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:36Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>221</Altimeter>
+<Variometer>0</Variometer>
+<Course>061</Course>
+<GroundSpeed>88</GroundSpeed>
+<VerticalSpeed>95</VerticalSpeed>
+<FlightTime>134</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>31.5</Current>
+<Capacity>1451</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>302</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>004</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>6, 11, 23</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544594" lon="-112.2773301">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:37Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>218</Altimeter>
+<Variometer>-3</Variometer>
+<Course>061</Course>
+<GroundSpeed>76</GroundSpeed>
+<VerticalSpeed>69</VerticalSpeed>
+<FlightTime>135</FlightTime>
+<Voltage>15.2</Voltage>
+<Current>38.9</Current>
+<Capacity>1461</Capacity>
+<RCQuality>203</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>288</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>004</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>11, 9, 6</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544615" lon="-112.2773389">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:38Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>225</Altimeter>
+<Variometer>3</Variometer>
+<Course>061</Course>
+<GroundSpeed>84</GroundSpeed>
+<VerticalSpeed>85</VerticalSpeed>
+<FlightTime>136</FlightTime>
+<Voltage>15.3</Voltage>
+<Current>33.6</Current>
+<Capacity>1472</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>326</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>11, 8, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544646" lon="-112.2773467">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:39Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>232</Altimeter>
+<Variometer>5</Variometer>
+<Course>060</Course>
+<GroundSpeed>128</GroundSpeed>
+<VerticalSpeed>42</VerticalSpeed>
+<FlightTime>137</FlightTime>
+<Voltage>15.2</Voltage>
+<Current>41.7</Current>
+<Capacity>1483</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>320</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>11, 9, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544659" lon="-112.2773690">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:40Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>245</Altimeter>
+<Variometer>10</Variometer>
+<Course>057</Course>
+<GroundSpeed>195</GroundSpeed>
+<VerticalSpeed>18</VerticalSpeed>
+<FlightTime>138</FlightTime>
+<Voltage>15.2</Voltage>
+<Current>42.9</Current>
+<Capacity>1492</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>320</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>11, 6, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544672" lon="-112.2773921">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:41Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>268</Altimeter>
+<Variometer>15</Variometer>
+<Course>051</Course>
+<GroundSpeed>237</GroundSpeed>
+<VerticalSpeed>-16</VerticalSpeed>
+<FlightTime>139</FlightTime>
+<Voltage>15.2</Voltage>
+<Current>38.1</Current>
+<Capacity>1504</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>319</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>8, 6, 16</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544688" lon="-112.2774188">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:42Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>283</Altimeter>
+<Variometer>13</Variometer>
+<Course>043</Course>
+<GroundSpeed>286</GroundSpeed>
+<VerticalSpeed>-23</VerticalSpeed>
+<FlightTime>140</FlightTime>
+<Voltage>15.2</Voltage>
+<Current>36.3</Current>
+<Capacity>1515</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>308</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>8, 6, 16</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544715" lon="-112.2774481">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:43Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>302</Altimeter>
+<Variometer>15</Variometer>
+<Course>032</Course>
+<GroundSpeed>308</GroundSpeed>
+<VerticalSpeed>34</VerticalSpeed>
+<FlightTime>141</FlightTime>
+<Voltage>15.2</Voltage>
+<Current>43.5</Current>
+<Capacity>1527</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>300</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>6, 2, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544717" lon="-112.2774801">
+<ele>0.000</ele>
+<time>2012-02-25T21:28:44Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>332</Altimeter>
+<Variometer>23</Variometer>
+<Course>019</Course>
+<GroundSpeed>325</GroundSpeed>
+<VerticalSpeed>93</VerticalSpeed>
+<FlightTime>142</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>44.1</Current>
+<Capacity>1536</Capacity>
+<RCQuality>200</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>306</Compass>
+<NickAngle>005</NickAngle>
+<RollAngle>-02</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>13, -8, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544733" lon="-112.2775144">
+<ele>1.358</ele>
+<time>2012-02-25T21:28:45Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>370</Altimeter>
+<Variometer>31</Variometer>
+<Course>011</Course>
+<GroundSpeed>371</GroundSpeed>
+<VerticalSpeed>64</VerticalSpeed>
+<FlightTime>143</FlightTime>
+<Voltage>15.2</Voltage>
+<Current>40.4</Current>
+<Capacity>1549</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>306</Compass>
+<NickAngle>007</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>21, -6, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544829" lon="-112.2775531">
+<ele>2.275</ele>
+<time>2012-02-25T21:28:46Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>390</Altimeter>
+<Variometer>21</Variometer>
+<Course>001</Course>
+<GroundSpeed>418</GroundSpeed>
+<VerticalSpeed>17</VerticalSpeed>
+<FlightTime>144</FlightTime>
+<Voltage>15.2</Voltage>
+<Current>41.8</Current>
+<Capacity>1560</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>307</Compass>
+<NickAngle>006</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>19, -4, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545005" lon="-112.2775982">
+<ele>3.141</ele>
+<time>2012-02-25T21:28:47Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>421</Altimeter>
+<Variometer>27</Variometer>
+<Course>350</Course>
+<GroundSpeed>525</GroundSpeed>
+<VerticalSpeed>29</VerticalSpeed>
+<FlightTime>145</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>49.9</Current>
+<Capacity>1575</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>307</Compass>
+<NickAngle>005</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>12, 0, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545263" lon="-112.2776491">
+<ele>4.787</ele>
+<time>2012-02-25T21:28:48Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>469</Altimeter>
+<Variometer>34</Variometer>
+<Course>340</Course>
+<GroundSpeed>569</GroundSpeed>
+<VerticalSpeed>89</VerticalSpeed>
+<FlightTime>146</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>51.8</Current>
+<Capacity>1585</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>307</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>004</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>6, 11, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545478" lon="-112.2777116">
+<ele>7.500</ele>
+<time>2012-02-25T21:28:50Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>532</Altimeter>
+<Variometer>42</Variometer>
+<Course>331</Course>
+<GroundSpeed>543</GroundSpeed>
+<VerticalSpeed>144</VerticalSpeed>
+<FlightTime>147</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>46.0</Current>
+<Capacity>1599</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>307</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>11, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545630" lon="-112.2777618">
+<ele>10.323</ele>
+<time>2012-02-25T21:28:51Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>574</Altimeter>
+<Variometer>42</Variometer>
+<Course>325</Course>
+<GroundSpeed>504</GroundSpeed>
+<VerticalSpeed>227</VerticalSpeed>
+<FlightTime>148</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>45.0</Current>
+<Capacity>1613</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>306</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>10, -8, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545781" lon="-112.2778102">
+<ele>13.662</ele>
+<time>2012-02-25T21:28:52Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>637</Altimeter>
+<Variometer>42</Variometer>
+<Course>320</Course>
+<GroundSpeed>465</GroundSpeed>
+<VerticalSpeed>306</VerticalSpeed>
+<FlightTime>149</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>48.9</Current>
+<Capacity>1627</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>304</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>-02</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>11, -9, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545944" lon="-112.2778512">
+<ele>17.079</ele>
+<time>2012-02-25T21:28:53Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>711</Altimeter>
+<Variometer>50</Variometer>
+<Course>317</Course>
+<GroundSpeed>400</GroundSpeed>
+<VerticalSpeed>357</VerticalSpeed>
+<FlightTime>150</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>51.5</Current>
+<Capacity>1642</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>305</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>-02</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>11, -9, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9546132" lon="-112.2778827">
+<ele>20.947</ele>
+<time>2012-02-25T21:28:54Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>797</Altimeter>
+<Variometer>57</Variometer>
+<Course>315</Course>
+<GroundSpeed>357</GroundSpeed>
+<VerticalSpeed>403</VerticalSpeed>
+<FlightTime>151</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>47.7</Current>
+<Capacity>1652</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>305</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>-02</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>11, -6, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9546364" lon="-112.2779054">
+<ele>24.635</ele>
+<time>2012-02-25T21:28:55Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>847</Altimeter>
+<Variometer>51</Variometer>
+<Course>316</Course>
+<GroundSpeed>332</GroundSpeed>
+<VerticalSpeed>420</VerticalSpeed>
+<FlightTime>152</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>43.4</Current>
+<Capacity>1664</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>305</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>6, -3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9546620" lon="-112.2779232">
+<ele>27.794</ele>
+<time>2012-02-25T21:28:56Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>911</Altimeter>
+<Variometer>44</Variometer>
+<Course>318</Course>
+<GroundSpeed>326</GroundSpeed>
+<VerticalSpeed>388</VerticalSpeed>
+<FlightTime>153</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>55.4</Current>
+<Capacity>1679</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>305</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9546836" lon="-112.2779331">
+<ele>31.369</ele>
+<time>2012-02-25T21:28:57Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1001</Altimeter>
+<Variometer>58</Variometer>
+<Course>319</Course>
+<GroundSpeed>256</GroundSpeed>
+<VerticalSpeed>386</VerticalSpeed>
+<FlightTime>154</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>56.2</Current>
+<Capacity>1696</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>303</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9547038" lon="-112.2779315">
+<ele>35.346</ele>
+<time>2012-02-25T21:28:58Z</time>
+<sat>8</sat>
+<extensions>
+<Altimeter>1107</Altimeter>
+<Variometer>69</Variometer>
+<Course>321</Course>
+<GroundSpeed>226</GroundSpeed>
+<VerticalSpeed>388</VerticalSpeed>
+<FlightTime>155</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>53.9</Current>
+<Capacity>1707</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>301</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9547225" lon="-112.2779203">
+<ele>39.096</ele>
+<time>2012-02-25T21:28:59Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>1211</Altimeter>
+<Variometer>69</Variometer>
+<Course>324</Course>
+<GroundSpeed>247</GroundSpeed>
+<VerticalSpeed>305</VerticalSpeed>
+<FlightTime>156</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>50.0</Current>
+<Capacity>1723</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>304</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9547352" lon="-112.2778987">
+<ele>42.951</ele>
+<time>2012-02-25T21:29:00Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>1271</Altimeter>
+<Variometer>62</Variometer>
+<Course>326</Course>
+<GroundSpeed>181</GroundSpeed>
+<VerticalSpeed>224</VerticalSpeed>
+<FlightTime>157</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>51.0</Current>
+<Capacity>1738</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>306</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>0, -1, -8</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9547345" lon="-112.2778739">
+<ele>46.463</ele>
+<time>2012-02-25T21:29:01Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1362</Altimeter>
+<Variometer>76</Variometer>
+<Course>330</Course>
+<GroundSpeed>255</GroundSpeed>
+<VerticalSpeed>239</VerticalSpeed>
+<FlightTime>158</FlightTime>
+<Voltage>14.3</Voltage>
+<Current>51.5</Current>
+<Capacity>1753</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>314</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -37</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9547282" lon="-112.2778471">
+<ele>50.098</ele>
+<time>2012-02-25T21:29:02Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1448</Altimeter>
+<Variometer>61</Variometer>
+<Course>337</Course>
+<GroundSpeed>310</GroundSpeed>
+<VerticalSpeed>280</VerticalSpeed>
+<FlightTime>159</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>50.0</Current>
+<Capacity>1763</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>342</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 0, -52</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9547195" lon="-112.2778203">
+<ele>53.617</ele>
+<time>2012-02-25T21:29:03Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1517</Altimeter>
+<Variometer>45</Variometer>
+<Course>348</Course>
+<GroundSpeed>321</GroundSpeed>
+<VerticalSpeed>315</VerticalSpeed>
+<FlightTime>160</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>44.7</Current>
+<Capacity>1778</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>007</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, -39</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9547093" lon="-112.2777920">
+<ele>56.653</ele>
+<time>2012-02-25T21:29:04Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1565</Altimeter>
+<Variometer>48</Variometer>
+<Course>357</Course>
+<GroundSpeed>315</GroundSpeed>
+<VerticalSpeed>332</VerticalSpeed>
+<FlightTime>161</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>46.2</Current>
+<Capacity>1792</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>012</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9547005" lon="-112.2777672">
+<ele>60.047</ele>
+<time>2012-02-25T21:29:05Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1623</Altimeter>
+<Variometer>41</Variometer>
+<Course>004</Course>
+<GroundSpeed>271</GroundSpeed>
+<VerticalSpeed>359</VerticalSpeed>
+<FlightTime>162</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>44.5</Current>
+<Capacity>1806</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>005</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9546900" lon="-112.2777460">
+<ele>62.569</ele>
+<time>2012-02-25T21:29:06Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1685</Altimeter>
+<Variometer>40</Variometer>
+<Course>009</Course>
+<GroundSpeed>221</GroundSpeed>
+<VerticalSpeed>317</VerticalSpeed>
+<FlightTime>163</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>38.7</Current>
+<Capacity>1814</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>008</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9546807" lon="-112.2777291">
+<ele>63.878</ele>
+<time>2012-02-25T21:29:07Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1714</Altimeter>
+<Variometer>21</Variometer>
+<Course>012</Course>
+<GroundSpeed>161</GroundSpeed>
+<VerticalSpeed>219</VerticalSpeed>
+<FlightTime>164</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>35.9</Current>
+<Capacity>1825</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>009</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -7, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9546751" lon="-112.2777181">
+<ele>64.528</ele>
+<time>2012-02-25T21:29:08Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1722</Altimeter>
+<Variometer>10</Variometer>
+<Course>014</Course>
+<GroundSpeed>155</GroundSpeed>
+<VerticalSpeed>187</VerticalSpeed>
+<FlightTime>165</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>42.0</Current>
+<Capacity>1837</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>005</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-04</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -11, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9546689" lon="-112.2777067">
+<ele>65.446</ele>
+<time>2012-02-25T21:29:09Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1732</Altimeter>
+<Variometer>8</Variometer>
+<Course>015</Course>
+<GroundSpeed>163</GroundSpeed>
+<VerticalSpeed>207</VerticalSpeed>
+<FlightTime>166</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>41.5</Current>
+<Capacity>1849</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>004</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-03</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>0, -13, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9546605" lon="-112.2776954">
+<ele>66.225</ele>
+<time>2012-02-25T21:29:10Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1738</Altimeter>
+<Variometer>3</Variometer>
+<Course>017</Course>
+<GroundSpeed>132</GroundSpeed>
+<VerticalSpeed>171</VerticalSpeed>
+<FlightTime>167</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>32.2</Current>
+<Capacity>1861</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>004</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-04</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -16, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9546447" lon="-112.2776788">
+<ele>65.874</ele>
+<time>2012-02-25T21:29:11Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1729</Altimeter>
+<Variometer>-6</Variometer>
+<Course>021</Course>
+<GroundSpeed>201</GroundSpeed>
+<VerticalSpeed>89</VerticalSpeed>
+<FlightTime>168</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>34.7</Current>
+<Capacity>1868</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>003</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-04</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -19, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9546262" lon="-112.2776552">
+<ele>65.402</ele>
+<time>2012-02-25T21:29:12Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1717</Altimeter>
+<Variometer>-10</Variometer>
+<Course>031</Course>
+<GroundSpeed>352</GroundSpeed>
+<VerticalSpeed>89</VerticalSpeed>
+<FlightTime>169</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>46.1</Current>
+<Capacity>1880</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>003</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-05</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -19, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9546053" lon="-112.2776227">
+<ele>65.573</ele>
+<time>2012-02-25T21:29:13Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1716</Altimeter>
+<Variometer>0</Variometer>
+<Course>044</Course>
+<GroundSpeed>422</GroundSpeed>
+<VerticalSpeed>107</VerticalSpeed>
+<FlightTime>170</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>39.7</Current>
+<Capacity>1893</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>005</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-04</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -16, 1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545851" lon="-112.2775876">
+<ele>65.539</ele>
+<time>2012-02-25T21:29:14Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1726</Altimeter>
+<Variometer>5</Variometer>
+<Course>054</Course>
+<GroundSpeed>407</GroundSpeed>
+<VerticalSpeed>67</VerticalSpeed>
+<FlightTime>171</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>35.4</Current>
+<Capacity>1904</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>006</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>19, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545726" lon="-112.2775494">
+<ele>65.038</ele>
+<time>2012-02-25T21:29:15Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1721</Altimeter>
+<Variometer>-1</Variometer>
+<Course>061</Course>
+<GroundSpeed>408</GroundSpeed>
+<VerticalSpeed>25</VerticalSpeed>
+<FlightTime>172</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>35.2</Current>
+<Capacity>1911</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>005</Compass>
+<NickAngle>004</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545703" lon="-112.2775091">
+<ele>64.325</ele>
+<time>2012-02-25T21:29:16Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1716</Altimeter>
+<Variometer>-4</Variometer>
+<Course>065</Course>
+<GroundSpeed>387</GroundSpeed>
+<VerticalSpeed>-12</VerticalSpeed>
+<FlightTime>173</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>35.3</Current>
+<Capacity>1922</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>007</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545716" lon="-112.2774730">
+<ele>63.203</ele>
+<time>2012-02-25T21:29:17Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1693</Altimeter>
+<Variometer>-16</Variometer>
+<Course>067</Course>
+<GroundSpeed>336</GroundSpeed>
+<VerticalSpeed>-53</VerticalSpeed>
+<FlightTime>174</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>38.9</Current>
+<Capacity>1932</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>006</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 0, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545738" lon="-112.2774426">
+<ele>62.341</ele>
+<time>2012-02-25T21:29:18Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1678</Altimeter>
+<Variometer>-11</Variometer>
+<Course>068</Course>
+<GroundSpeed>278</GroundSpeed>
+<VerticalSpeed>-59</VerticalSpeed>
+<FlightTime>175</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>40.8</Current>
+<Capacity>1945</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>004</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545771" lon="-112.2774202">
+<ele>61.786</ele>
+<time>2012-02-25T21:29:19Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1671</Altimeter>
+<Variometer>-4</Variometer>
+<Course>068</Course>
+<GroundSpeed>196</GroundSpeed>
+<VerticalSpeed>-42</VerticalSpeed>
+<FlightTime>176</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>37.2</Current>
+<Capacity>1953</Capacity>
+<RCQuality>206</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>006</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>2, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545789" lon="-112.2774050">
+<ele>60.698</ele>
+<time>2012-02-25T21:29:20Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1652</Altimeter>
+<Variometer>-15</Variometer>
+<Course>068</Course>
+<GroundSpeed>105</GroundSpeed>
+<VerticalSpeed>-90</VerticalSpeed>
+<FlightTime>177</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>31.4</Current>
+<Capacity>1963</Capacity>
+<RCQuality>198</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>008</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-7, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545743" lon="-112.2773991">
+<ele>59.266</ele>
+<time>2012-02-25T21:29:21Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1627</Altimeter>
+<Variometer>-22</Variometer>
+<Course>068</Course>
+<GroundSpeed>56</GroundSpeed>
+<VerticalSpeed>-128</VerticalSpeed>
+<FlightTime>178</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>38.9</Current>
+<Capacity>1974</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>004</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -12, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545650" lon="-112.2774009">
+<ele>57.999</ele>
+<time>2012-02-25T21:29:22Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1596</Altimeter>
+<Variometer>-25</Variometer>
+<Course>069</Course>
+<GroundSpeed>127</GroundSpeed>
+<VerticalSpeed>-124</VerticalSpeed>
+<FlightTime>179</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>39.1</Current>
+<Capacity>1985</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>004</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>-06</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>6, -14, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545470" lon="-112.2773962">
+<ele>56.564</ele>
+<time>2012-02-25T21:29:23Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1571</Altimeter>
+<Variometer>-23</Variometer>
+<Course>071</Course>
+<GroundSpeed>160</GroundSpeed>
+<VerticalSpeed>-164</VerticalSpeed>
+<FlightTime>180</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>37.3</Current>
+<Capacity>1993</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>005</Compass>
+<NickAngle>008</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>25, -4, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545360" lon="-112.2773823">
+<ele>54.838</ele>
+<time>2012-02-25T21:29:24Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1545</Altimeter>
+<Variometer>-18</Variometer>
+<Course>073</Course>
+<GroundSpeed>167</GroundSpeed>
+<VerticalSpeed>-201</VerticalSpeed>
+<FlightTime>181</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>38.8</Current>
+<Capacity>2005</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>004</Compass>
+<NickAngle>008</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>21, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545366" lon="-112.2773622">
+<ele>53.192</ele>
+<time>2012-02-25T21:29:25Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1529</Altimeter>
+<Variometer>-17</Variometer>
+<Course>073</Course>
+<GroundSpeed>195</GroundSpeed>
+<VerticalSpeed>-200</VerticalSpeed>
+<FlightTime>182</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>38.2</Current>
+<Capacity>2016</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>003</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>13, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545425" lon="-112.2773405">
+<ele>52.028</ele>
+<time>2012-02-25T21:29:26Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1512</Altimeter>
+<Variometer>-12</Variometer>
+<Course>073</Course>
+<GroundSpeed>197</GroundSpeed>
+<VerticalSpeed>-188</VerticalSpeed>
+<FlightTime>183</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>33.7</Current>
+<Capacity>2027</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>001</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>6, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545531" lon="-112.2773233">
+<ele>51.122</ele>
+<time>2012-02-25T21:29:27Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1490</Altimeter>
+<Variometer>-19</Variometer>
+<Course>073</Course>
+<GroundSpeed>160</GroundSpeed>
+<VerticalSpeed>-205</VerticalSpeed>
+<FlightTime>184</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>30.6</Current>
+<Capacity>2034</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>008</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545665" lon="-112.2773116">
+<ele>50.527</ele>
+<time>2012-02-25T21:29:28Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1458</Altimeter>
+<Variometer>-21</Variometer>
+<Course>072</Course>
+<GroundSpeed>134</GroundSpeed>
+<VerticalSpeed>-189</VerticalSpeed>
+<FlightTime>185</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>31.8</Current>
+<Capacity>2043</Capacity>
+<RCQuality>206</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>005</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545763" lon="-112.2773073">
+<ele>49.642</ele>
+<time>2012-02-25T21:29:29Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1438</Altimeter>
+<Variometer>-19</Variometer>
+<Course>072</Course>
+<GroundSpeed>79</GroundSpeed>
+<VerticalSpeed>-158</VerticalSpeed>
+<FlightTime>186</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>33.6</Current>
+<Capacity>2053</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>005</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-02</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-4, -3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545813" lon="-112.2773072">
+<ele>48.267</ele>
+<time>2012-02-25T21:29:30Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1401</Altimeter>
+<Variometer>-29</Variometer>
+<Course>072</Course>
+<GroundSpeed>37</GroundSpeed>
+<VerticalSpeed>-155</VerticalSpeed>
+<FlightTime>187</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>37.8</Current>
+<Capacity>2064</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>006</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545818" lon="-112.2773097">
+<ele>47.331</ele>
+<time>2012-02-25T21:29:31Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1370</Altimeter>
+<Variometer>-26</Variometer>
+<Course>072</Course>
+<GroundSpeed>43</GroundSpeed>
+<VerticalSpeed>-123</VerticalSpeed>
+<FlightTime>188</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>40.1</Current>
+<Capacity>2072</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>002</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-02</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, -6, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545767" lon="-112.2773121">
+<ele>46.397</ele>
+<time>2012-02-25T21:29:32Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1358</Altimeter>
+<Variometer>-15</Variometer>
+<Course>072</Course>
+<GroundSpeed>88</GroundSpeed>
+<VerticalSpeed>-129</VerticalSpeed>
+<FlightTime>189</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>31.7</Current>
+<Capacity>2083</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>006</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, -6, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545638" lon="-112.2773112">
+<ele>44.662</ele>
+<time>2012-02-25T21:29:33Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1334</Altimeter>
+<Variometer>-22</Variometer>
+<Course>073</Course>
+<GroundSpeed>136</GroundSpeed>
+<VerticalSpeed>-184</VerticalSpeed>
+<FlightTime>190</FlightTime>
+<Voltage>15.1</Voltage>
+<Current>33.8</Current>
+<Capacity>2092</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>005</Compass>
+<NickAngle>003</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>8, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545548" lon="-112.2773087">
+<ele>43.351</ele>
+<time>2012-02-25T21:29:34Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1294</Altimeter>
+<Variometer>-25</Variometer>
+<Course>075</Course>
+<GroundSpeed>95</GroundSpeed>
+<VerticalSpeed>-176</VerticalSpeed>
+<FlightTime>191</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>38.4</Current>
+<Capacity>2103</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>003</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>8, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545510" lon="-112.2773017">
+<ele>42.111</ele>
+<time>2012-02-25T21:29:35Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1270</Altimeter>
+<Variometer>-16</Variometer>
+<Course>075</Course>
+<GroundSpeed>86</GroundSpeed>
+<VerticalSpeed>-169</VerticalSpeed>
+<FlightTime>192</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>34.4</Current>
+<Capacity>2115</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>004</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>0, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545510" lon="-112.2772907">
+<ele>40.640</ele>
+<time>2012-02-25T21:29:36Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1237</Altimeter>
+<Variometer>-21</Variometer>
+<Course>075</Course>
+<GroundSpeed>98</GroundSpeed>
+<VerticalSpeed>-184</VerticalSpeed>
+<FlightTime>193</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>33.1</Current>
+<Capacity>2121</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>004</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, 3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545536" lon="-112.2772762">
+<ele>39.333</ele>
+<time>2012-02-25T21:29:37Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1200</Altimeter>
+<Variometer>-24</Variometer>
+<Course>075</Course>
+<GroundSpeed>117</GroundSpeed>
+<VerticalSpeed>-180</VerticalSpeed>
+<FlightTime>194</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>35.5</Current>
+<Capacity>2131</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>006</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545549" lon="-112.2772661">
+<ele>37.577</ele>
+<time>2012-02-25T21:29:38Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1172</Altimeter>
+<Variometer>-27</Variometer>
+<Course>075</Course>
+<GroundSpeed>90</GroundSpeed>
+<VerticalSpeed>-192</VerticalSpeed>
+<FlightTime>195</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>39.5</Current>
+<Capacity>2142</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>005</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545532" lon="-112.2772572">
+<ele>36.115</ele>
+<time>2012-02-25T21:29:39Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1136</Altimeter>
+<Variometer>-30</Variometer>
+<Course>075</Course>
+<GroundSpeed>88</GroundSpeed>
+<VerticalSpeed>-168</VerticalSpeed>
+<FlightTime>196</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>37.6</Current>
+<Capacity>2154</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>006</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, 0, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545485" lon="-112.2772503">
+<ele>34.606</ele>
+<time>2012-02-25T21:29:40Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1108</Altimeter>
+<Variometer>-19</Variometer>
+<Course>075</Course>
+<GroundSpeed>80</GroundSpeed>
+<VerticalSpeed>-180</VerticalSpeed>
+<FlightTime>197</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>36.1</Current>
+<Capacity>2162</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>000</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-1, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545407" lon="-112.2772453">
+<ele>32.928</ele>
+<time>2012-02-25T21:29:41Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1080</Altimeter>
+<Variometer>-19</Variometer>
+<Course>075</Course>
+<GroundSpeed>96</GroundSpeed>
+<VerticalSpeed>-197</VerticalSpeed>
+<FlightTime>198</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>36.9</Current>
+<Capacity>2173</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>004</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545332" lon="-112.2772423">
+<ele>31.244</ele>
+<time>2012-02-25T21:29:42Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1056</Altimeter>
+<Variometer>-22</Variometer>
+<Course>075</Course>
+<GroundSpeed>75</GroundSpeed>
+<VerticalSpeed>-204</VerticalSpeed>
+<FlightTime>199</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>36.6</Current>
+<Capacity>2184</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>007</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545273" lon="-112.2772410">
+<ele>29.561</ele>
+<time>2012-02-25T21:29:44Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>1020</Altimeter>
+<Variometer>-29</Variometer>
+<Course>075</Course>
+<GroundSpeed>48</GroundSpeed>
+<VerticalSpeed>-163</VerticalSpeed>
+<FlightTime>200</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>37.2</Current>
+<Capacity>2195</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>008</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545239" lon="-112.2772430">
+<ele>27.985</ele>
+<time>2012-02-25T21:29:45Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>987</Altimeter>
+<Variometer>-29</Variometer>
+<Course>075</Course>
+<GroundSpeed>43</GroundSpeed>
+<VerticalSpeed>-165</VerticalSpeed>
+<FlightTime>201</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>35.8</Current>
+<Capacity>2202</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>003</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545222" lon="-112.2772450">
+<ele>26.713</ele>
+<time>2012-02-25T21:29:46Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>954</Altimeter>
+<Variometer>-23</Variometer>
+<Course>075</Course>
+<GroundSpeed>20</GroundSpeed>
+<VerticalSpeed>-146</VerticalSpeed>
+<FlightTime>202</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>36.2</Current>
+<Capacity>2213</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>004</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 0, -10</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545222" lon="-112.2772423">
+<ele>25.554</ele>
+<time>2012-02-25T21:29:47Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>931</Altimeter>
+<Variometer>-22</Variometer>
+<Course>075</Course>
+<GroundSpeed>29</GroundSpeed>
+<VerticalSpeed>-163</VerticalSpeed>
+<FlightTime>203</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>36.5</Current>
+<Capacity>2224</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>014</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, -31</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545206" lon="-112.2772369">
+<ele>23.606</ele>
+<time>2012-02-25T21:29:48Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>892</Altimeter>
+<Variometer>-32</Variometer>
+<Course>075</Course>
+<GroundSpeed>46</GroundSpeed>
+<VerticalSpeed>-204</VerticalSpeed>
+<FlightTime>204</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>38.6</Current>
+<Capacity>2235</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>034</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, -29</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545248" lon="-112.2772282">
+<ele>21.817</ele>
+<time>2012-02-25T21:29:49Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>853</Altimeter>
+<Variometer>-26</Variometer>
+<Course>075</Course>
+<GroundSpeed>94</GroundSpeed>
+<VerticalSpeed>-207</VerticalSpeed>
+<FlightTime>205</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>39.6</Current>
+<Capacity>2243</Capacity>
+<RCQuality>200</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>050</Compass>
+<NickAngle>-03</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-14, -1, -22</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545275" lon="-112.2772213">
+<ele>20.151</ele>
+<time>2012-02-25T21:29:50Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>829</Altimeter>
+<Variometer>-37</Variometer>
+<Course>075</Course>
+<GroundSpeed>29</GroundSpeed>
+<VerticalSpeed>-222</VerticalSpeed>
+<FlightTime>206</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>38.5</Current>
+<Capacity>2255</Capacity>
+<RCQuality>203</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>049</Compass>
+<NickAngle>-05</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-19, -3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545265" lon="-112.2772267">
+<ele>18.451</ele>
+<time>2012-02-25T21:29:51Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>799</Altimeter>
+<Variometer>-26</Variometer>
+<Course>075</Course>
+<GroundSpeed>115</GroundSpeed>
+<VerticalSpeed>-232</VerticalSpeed>
+<FlightTime>207</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>38.8</Current>
+<Capacity>2267</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>056</Compass>
+<NickAngle>-04</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-13, -4, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545198" lon="-112.2772452">
+<ele>17.258</ele>
+<time>2012-02-25T21:29:52Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>779</Altimeter>
+<Variometer>-14</Variometer>
+<Course>085</Course>
+<GroundSpeed>242</GroundSpeed>
+<VerticalSpeed>-201</VerticalSpeed>
+<FlightTime>208</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>30.5</Current>
+<Capacity>2277</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>058</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545109" lon="-112.2772667">
+<ele>15.823</ele>
+<time>2012-02-25T21:29:53Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>738</Altimeter>
+<Variometer>-28</Variometer>
+<Course>096</Course>
+<GroundSpeed>231</GroundSpeed>
+<VerticalSpeed>-175</VerticalSpeed>
+<FlightTime>209</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>32.8</Current>
+<Capacity>2283</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>055</Compass>
+<NickAngle>004</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9545037" lon="-112.2772821">
+<ele>14.654</ele>
+<time>2012-02-25T21:29:54Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>714</Altimeter>
+<Variometer>-21</Variometer>
+<Course>101</Course>
+<GroundSpeed>156</GroundSpeed>
+<VerticalSpeed>-116</VerticalSpeed>
+<FlightTime>210</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>37.8</Current>
+<Capacity>2295</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>053</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>0, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544987" lon="-112.2772944">
+<ele>13.623</ele>
+<time>2012-02-25T21:29:55Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>682</Altimeter>
+<Variometer>-25</Variometer>
+<Course>102</Course>
+<GroundSpeed>124</GroundSpeed>
+<VerticalSpeed>-106</VerticalSpeed>
+<FlightTime>211</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>30.2</Current>
+<Capacity>2306</Capacity>
+<RCQuality>203</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>056</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544959" lon="-112.2773034">
+<ele>11.900</ele>
+<time>2012-02-25T21:29:56Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>636</Altimeter>
+<Variometer>-31</Variometer>
+<Course>102</Course>
+<GroundSpeed>86</GroundSpeed>
+<VerticalSpeed>-162</VerticalSpeed>
+<FlightTime>212</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>35.9</Current>
+<Capacity>2315</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>053</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-5, -3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544944" lon="-112.2773035">
+<ele>9.885</ele>
+<time>2012-02-25T21:29:57Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>588</Altimeter>
+<Variometer>-28</Variometer>
+<Course>102</Course>
+<GroundSpeed>40</GroundSpeed>
+<VerticalSpeed>-143</VerticalSpeed>
+<FlightTime>213</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>43.7</Current>
+<Capacity>2323</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>053</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-6, -3, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544892" lon="-112.2772997">
+<ele>9.107</ele>
+<time>2012-02-25T21:29:58Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>569</Altimeter>
+<Variometer>-13</Variometer>
+<Course>102</Course>
+<GroundSpeed>95</GroundSpeed>
+<VerticalSpeed>-69</VerticalSpeed>
+<FlightTime>214</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>36.1</Current>
+<Capacity>2335</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>056</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, 0, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544852" lon="-112.2772934">
+<ele>8.200</ele>
+<time>2012-02-25T21:29:59Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>542</Altimeter>
+<Variometer>-17</Variometer>
+<Course>102</Course>
+<GroundSpeed>72</GroundSpeed>
+<VerticalSpeed>-65</VerticalSpeed>
+<FlightTime>215</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>31.2</Current>
+<Capacity>2345</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>058</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>1, -1, 13</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544827" lon="-112.2772870">
+<ele>6.937</ele>
+<time>2012-02-25T21:30:00Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>517</Altimeter>
+<Variometer>-23</Variometer>
+<Course>102</Course>
+<GroundSpeed>79</GroundSpeed>
+<VerticalSpeed>-80</VerticalSpeed>
+<FlightTime>216</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>36.2</Current>
+<Capacity>2355</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>058</Compass>
+<NickAngle>-03</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-11, -4, 27</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544761" lon="-112.2772830">
+<ele>5.760</ele>
+<time>2012-02-25T21:30:01Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>470</Altimeter>
+<Variometer>-34</Variometer>
+<Course>103</Course>
+<GroundSpeed>136</GroundSpeed>
+<VerticalSpeed>-62</VerticalSpeed>
+<FlightTime>217</FlightTime>
+<Voltage>14.8</Voltage>
+<Current>43.4</Current>
+<Capacity>2367</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>041</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-4, -1, 16</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544671" lon="-112.2772859">
+<ele>5.450</ele>
+<time>2012-02-25T21:30:02Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>453</Altimeter>
+<Variometer>-12</Variometer>
+<Course>105</Course>
+<GroundSpeed>105</GroundSpeed>
+<VerticalSpeed>-4</VerticalSpeed>
+<FlightTime>218</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>35.0</Current>
+<Capacity>2375</Capacity>
+<RCQuality>209</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>034</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>2, -1, 3</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544557" lon="-112.2772893">
+<ele>4.504</ele>
+<time>2012-02-25T21:30:03Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>426</Altimeter>
+<Variometer>-18</Variometer>
+<Course>105</Course>
+<GroundSpeed>99</GroundSpeed>
+<VerticalSpeed>-78</VerticalSpeed>
+<FlightTime>219</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>29.5</Current>
+<Capacity>2384</Capacity>
+<RCQuality>200</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>027</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>0, 3, 19</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544482" lon="-112.2772898">
+<ele>2.791</ele>
+<time>2012-02-25T21:30:04Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>400</Altimeter>
+<Variometer>-24</Variometer>
+<Course>105</Course>
+<GroundSpeed>34</GroundSpeed>
+<VerticalSpeed>-131</VerticalSpeed>
+<FlightTime>220</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>33.7</Current>
+<Capacity>2394</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>016</Compass>
+<NickAngle>-04</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-24, 5, 14</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544381" lon="-112.2772919">
+<ele>0.820</ele>
+<time>2012-02-25T21:30:05Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>361</Altimeter>
+<Variometer>-30</Variometer>
+<Course>106</Course>
+<GroundSpeed>144</GroundSpeed>
+<VerticalSpeed>-122</VerticalSpeed>
+<FlightTime>221</FlightTime>
+<Voltage>14.8</Voltage>
+<Current>43.0</Current>
+<Capacity>2406</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>007</Compass>
+<NickAngle>-03</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>0, 7, 11</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544237" lon="-112.2772919">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:06Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>340</Altimeter>
+<Variometer>-14</Variometer>
+<Course>111</Course>
+<GroundSpeed>152</GroundSpeed>
+<VerticalSpeed>-66</VerticalSpeed>
+<FlightTime>222</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>36.7</Current>
+<Capacity>2414</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>001</Compass>
+<NickAngle>-02</NickAngle>
+<RollAngle>004</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-5, 16, 10</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544092" lon="-112.2772950">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:07Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>312</Altimeter>
+<Variometer>-19</Variometer>
+<Course>114</Course>
+<GroundSpeed>104</GroundSpeed>
+<VerticalSpeed>-122</VerticalSpeed>
+<FlightTime>223</FlightTime>
+<Voltage>15.0</Voltage>
+<Current>28.4</Current>
+<Capacity>2423</Capacity>
+<RCQuality>195</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>001</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>002</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, 24, 6</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544024" lon="-112.2773025">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:08Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>292</Altimeter>
+<Variometer>-19</Variometer>
+<Course>116</Course>
+<GroundSpeed>112</GroundSpeed>
+<VerticalSpeed>-165</VerticalSpeed>
+<FlightTime>224</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>37.4</Current>
+<Capacity>2433</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>346</Compass>
+<NickAngle>-05</NickAngle>
+<RollAngle>007</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-13, 25, 3</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543961" lon="-112.2773209">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:09Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>261</Altimeter>
+<Variometer>-19</Variometer>
+<Course>123</Course>
+<GroundSpeed>207</GroundSpeed>
+<VerticalSpeed>-121</VerticalSpeed>
+<FlightTime>225</FlightTime>
+<Voltage>14.8</Voltage>
+<Current>44.4</Current>
+<Capacity>2446</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>346</Compass>
+<NickAngle>005</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>31, -10, 6</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544049" lon="-112.2773376">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:10Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>257</Altimeter>
+<Variometer>-5</Variometer>
+<Course>127</Course>
+<GroundSpeed>149</GroundSpeed>
+<VerticalSpeed>-32</VerticalSpeed>
+<FlightTime>227</FlightTime>
+<Voltage>14.8</Voltage>
+<Current>41.4</Current>
+<Capacity>2459</Capacity>
+<RCQuality>200</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>342</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>-07</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>0, -17, 5</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544187" lon="-112.2773383">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:11Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>258</Altimeter>
+<Variometer>-2</Variometer>
+<Course>122</Course>
+<GroundSpeed>137</GroundSpeed>
+<VerticalSpeed>-10</VerticalSpeed>
+<FlightTime>228</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>33.2</Current>
+<Capacity>2470</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>342</Compass>
+<NickAngle>-22</NickAngle>
+<RollAngle>008</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-45, 19, 3</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544236" lon="-112.2773389">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:12Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>246</Altimeter>
+<Variometer>-10</Variometer>
+<Course>122</Course>
+<GroundSpeed>73</GroundSpeed>
+<VerticalSpeed>-17</VerticalSpeed>
+<FlightTime>229</FlightTime>
+<Voltage>14.8</Voltage>
+<Current>40.9</Current>
+<Capacity>2480</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>344</Compass>
+<NickAngle>004</NickAngle>
+<RollAngle>-02</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-3, -11, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544280" lon="-112.2773374">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:13Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>226</Altimeter>
+<Variometer>-8</Variometer>
+<Course>122</Course>
+<GroundSpeed>66</GroundSpeed>
+<VerticalSpeed>9</VerticalSpeed>
+<FlightTime>230</FlightTime>
+<Voltage>14.8</Voltage>
+<Current>45.9</Current>
+<Capacity>2489</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>340</Compass>
+<NickAngle>-10</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-56, 19, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544185" lon="-112.2773370">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:14Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>229</Altimeter>
+<Variometer>1</Variometer>
+<Course>124</Course>
+<GroundSpeed>162</GroundSpeed>
+<VerticalSpeed>32</VerticalSpeed>
+<FlightTime>231</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>35.3</Current>
+<Capacity>2501</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>342</Compass>
+<NickAngle>-03</NickAngle>
+<RollAngle>005</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>8, 0, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544000" lon="-112.2773366">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:15Z</time>
+<sat>9</sat>
+<extensions>
+<Altimeter>241</Altimeter>
+<Variometer>12</Variometer>
+<Course>127</Course>
+<GroundSpeed>175</GroundSpeed>
+<VerticalSpeed>12</VerticalSpeed>
+<FlightTime>232</FlightTime>
+<Voltage>14.5</Voltage>
+<Current>50.6</Current>
+<Capacity>2513</Capacity>
+<RCQuality>204</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>342</Compass>
+<NickAngle>032</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>29, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544038" lon="-112.2773373">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:16Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>225</Altimeter>
+<Variometer>-2</Variometer>
+<Course>127</Course>
+<GroundSpeed>81</GroundSpeed>
+<VerticalSpeed>91</VerticalSpeed>
+<FlightTime>233</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>31.8</Current>
+<Capacity>2528</Capacity>
+<RCQuality>205</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>342</Compass>
+<NickAngle>-06</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>-7, 0, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544091" lon="-112.2773398">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:17Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>236</Altimeter>
+<Variometer>4</Variometer>
+<Course>126</Course>
+<GroundSpeed>96</GroundSpeed>
+<VerticalSpeed>28</VerticalSpeed>
+<FlightTime>234</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>30.6</Current>
+<Capacity>2533</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>342</Compass>
+<NickAngle>-06</NickAngle>
+<RollAngle>004</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>5, 27, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543977" lon="-112.2773446">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:18Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>224</Altimeter>
+<Variometer>-4</Variometer>
+<Course>127</Course>
+<GroundSpeed>140</GroundSpeed>
+<VerticalSpeed>-5</VerticalSpeed>
+<FlightTime>235</FlightTime>
+<Voltage>14.8</Voltage>
+<Current>41.2</Current>
+<Capacity>2545</Capacity>
+<RCQuality>197</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>343</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, 0</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543943" lon="-112.2773444">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:19Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>219</Altimeter>
+<Variometer>-7</Variometer>
+<Course>127</Course>
+<GroundSpeed>9</GroundSpeed>
+<VerticalSpeed>-8</VerticalSpeed>
+<FlightTime>236</FlightTime>
+<Voltage>14.8</Voltage>
+<Current>41.9</Current>
+<Capacity>2558</Capacity>
+<RCQuality>199</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>350</Compass>
+<NickAngle>-01</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, 1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9543955" lon="-112.2773435">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:20Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>225</Altimeter>
+<Variometer>0</Variometer>
+<Course>127</Course>
+<GroundSpeed>13</GroundSpeed>
+<VerticalSpeed>-45</VerticalSpeed>
+<FlightTime>237</FlightTime>
+<Voltage>14.8</Voltage>
+<Current>34.7</Current>
+<Capacity>2569</Capacity>
+<RCQuality>200</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>344</Compass>
+<NickAngle>002</NickAngle>
+<RollAngle>-01</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>4, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544051" lon="-112.2773416">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:21Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>225</Altimeter>
+<Variometer>-1</Variometer>
+<Course>127</Course>
+<GroundSpeed>23</GroundSpeed>
+<VerticalSpeed>2</VerticalSpeed>
+<FlightTime>238</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>33.4</Current>
+<Capacity>2576</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>336</Compass>
+<NickAngle>001</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>4, 0, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544068" lon="-112.2773408">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:22Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>229</Altimeter>
+<Variometer>2</Variometer>
+<Course>127</Course>
+<GroundSpeed>21</GroundSpeed>
+<VerticalSpeed>21</VerticalSpeed>
+<FlightTime>239</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>31.0</Current>
+<Capacity>2586</Capacity>
+<RCQuality>208</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>341</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>000</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, -1</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+<trkpt lat="+28.9544028" lon="-112.2773426">
+<ele>0.000</ele>
+<time>2012-02-25T21:30:23Z</time>
+<sat>10</sat>
+<extensions>
+<Altimeter>232</Altimeter>
+<Variometer>3</Variometer>
+<Course>127</Course>
+<GroundSpeed>23</GroundSpeed>
+<VerticalSpeed>-41</VerticalSpeed>
+<FlightTime>240</FlightTime>
+<Voltage>14.9</Voltage>
+<Current>30.3</Current>
+<Capacity>2595</Capacity>
+<RCQuality>196</RCQuality>
+<RCRSSI>0</RCRSSI>
+<Compass>338</Compass>
+<NickAngle>000</NickAngle>
+<RollAngle>001</RollAngle>
+<NCFlag>91</NCFlag>
+<ErrorCode>000</ErrorCode>
+<TargetBearing>000</TargetBearing>
+<TargetDistance>0</TargetDistance>
+<RCSticks>3, -1, 26</RCSticks>
+<GPSSticks>0, 0, 0</GPSSticks>
+</extensions>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
